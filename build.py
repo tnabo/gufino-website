@@ -12,7 +12,10 @@ import re
 import shutil
 from html.parser import HTMLParser
 
-VERSION = "1.0.1"
+VERSION = "1.0.2"
+# Sub-folder the site is served from: "" on www.gufino.com, "/gufino-website" on tnabo.github.io.
+# Set automatically by the deploy workflow from GitHub Pages' own configuration.
+BASE_PATH = os.environ.get("BASE_PATH", "").rstrip("/")
 ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(ROOT, "_site")
 DATA = os.path.join(ROOT, "data")
@@ -71,7 +74,18 @@ def amazon(asin):
     return f"https://www.amazon.com/dp/{asin}"
 
 
+def with_base(content):
+    """Prefix root-relative links (href="/…", src="/…", url=/…, ("/…") with BASE_PATH."""
+    if not BASE_PATH:
+        return content
+    content = re.sub(r'((?:href|src)=")/(?!/)', r"\1" + BASE_PATH + "/", content)
+    content = re.sub(r"(url=)/(?!/)", r"\1" + BASE_PATH + "/", content)
+    return re.sub(r'(\(")/(?!/)', r"\1" + BASE_PATH + "/", content)
+
+
 def write(rel, content):
+    if rel.endswith(".html"):
+        content = with_base(content)
     path = os.path.join(OUT, rel)
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:

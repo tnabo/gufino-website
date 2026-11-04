@@ -39,10 +39,13 @@ jobs:
           git diff --cached --quiet || git commit -m "Import products, images and policies from Shopify"
           git push
 
-      - name: Build
-        run: python build.py
+      - id: pages
+        uses: actions/configure-pages@v5
 
-      - uses: actions/configure-pages@v5
+      - name: Build
+        env:
+          BASE_PATH: ${{ steps.pages.outputs.base_path }}
+        run: python build.py
 
       - uses: actions/upload-pages-artifact@v3
         with:
