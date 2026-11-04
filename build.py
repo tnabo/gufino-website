@@ -12,7 +12,7 @@ import re
 import shutil
 from html.parser import HTMLParser
 
-VERSION = "1.0.0"
+VERSION = "1.0.1"
 ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(ROOT, "_site")
 DATA = os.path.join(ROOT, "data")
@@ -192,7 +192,7 @@ def layout(url, title, description, body, image=None, extra_head="", canonical=T
 <footer class="site-footer">
   <div class="wrap footer-grid">
     <div>
-      <img class="footer-logo" src="/images/site/GUFINO_FULL_COLOR_-_TRANS_1_1.png" alt="Gufino" width="150" height="52" loading="lazy">
+      <img class="footer-logo" src="/images/site/Gufino-AltColor-w2000-trans.png" alt="Gufino" width="150" height="52" loading="lazy">
       <p>Bilingual Spanish–English learning toys, designed with educators for curious little minds.</p>
       {social_links()}
     </div>
