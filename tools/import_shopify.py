@@ -21,7 +21,7 @@ import tempfile
 import time
 import urllib.request
 
-VERSION = "1.1.0"
+VERSION = "1.1.1"
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 STORE = "https://www.gufino.com"
 FILES_CDN = STORE + "/cdn/shop/files/"
@@ -76,14 +76,18 @@ def import_video(url):
     """Download the hero video, compress it to 720p (no audio) and extract a poster frame."""
     out_dir = os.path.join(ROOT, "static", "videos")
     mp4, jpg = os.path.join(out_dir, "hero.mp4"), os.path.join(out_dir, "hero.jpg")
-    if os.path.exists(mp4) and not FORCE:
+    if os.path.exists(mp4) and os.path.exists(jpg) and not FORCE:
         print("  hero.mp4 already present")
         return
     os.makedirs(out_dir, exist_ok=True)
     with tempfile.TemporaryDirectory() as tmp:
         src = os.path.join(tmp, "original.mp4")
-        save(src, get(url))
-        print(f"  downloaded original ({os.path.getsize(src) / 1e6:.1f} MB)")
+        if os.path.exists(mp4) and not FORCE:
+            shutil.copy(mp4, src)  # uncompressed copy from an earlier run without ffmpeg
+            print(f"  re-compressing existing hero.mp4 ({os.path.getsize(src) / 1e6:.1f} MB)")
+        else:
+            save(src, get(url))
+            print(f"  downloaded original ({os.path.getsize(src) / 1e6:.1f} MB)")
         if shutil.which("ffmpeg"):
             subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", src, "-an",
                             "-vf", "scale=-2:720", "-c:v", "libx264", "-preset", "veryfast", "-crf", "28",

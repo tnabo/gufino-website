@@ -30,8 +30,9 @@ jobs:
           python-version: "3.12"
 
       - name: Import from Shopify (first run, or when requested)
-        if: ${{ hashFiles('data/shopify_products.json') == '' || hashFiles('static/videos/hero.mp4') == '' || inputs.reimport }}
+        if: ${{ hashFiles('data/shopify_products.json') == '' || hashFiles('static/videos/hero.jpg') == '' || inputs.reimport }}
         run: |
+          command -v ffmpeg || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)
           python tools/import_shopify.py
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
