@@ -1,4 +1,4 @@
-/* Gufino Bilingual Learning – site styles v1.1.0 */
+/* Gufino Bilingual Learning – site styles v1.2.0 */
 :root{
   --teal:#06bdb2; --teal-d:#049a91; --blue:#1990c6; --sun:#ffc93c; --coral:#ff7a59;
   --ink:#16323f; --muted:#5b7280; --line:#e3ecef; --bg:#ffffff; --soft:#f2fbfa; --cream:#fff9ec;
@@ -93,9 +93,17 @@ p{margin:0 0 1em}
 .eyebrow{font-size:.75rem;font-weight:800;text-transform:uppercase;letter-spacing:.1em;color:var(--blue)}
 .card-swatches{display:flex;gap:6px;margin-bottom:12px}
 .card-swatches span{width:16px;height:16px;border-radius:50%;border:2px solid #fff;box-shadow:0 0 0 1px var(--line)}
-.card-actions{margin-top:auto;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px}
-.card-actions .btn{padding:.55em 1em;font-size:.92rem;white-space:nowrap}
+.card-actions{margin-top:auto;display:flex}
+.card-actions .btn{padding:.6em 1em;font-size:.95rem;white-space:nowrap}
 .btn{white-space:nowrap}
+.btn-block{width:100%;justify-content:center}
+/* uniform cards (v1.2.0): edge-to-edge images, titles clamped to 3 lines of equal height */
+.card-img{overflow:hidden;border-bottom:1px solid var(--line)}
+.card-img img{padding:0;object-fit:cover;transition:transform .3s}
+.card:hover .card-img img{transform:scale(1.03)}
+.card-body h3{font-size:1rem;line-height:1.35;height:calc(1.35em * 3);overflow:hidden;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;margin:.35em 0 .9em}
+.card-swatches{margin:-.4em 0 12px;min-height:16px}
+.card-body{padding:16px 18px 18px}
 
 /* chips */
 .chips{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:28px}

@@ -12,7 +12,7 @@ import re
 import shutil
 from html.parser import HTMLParser
 
-VERSION = "1.1.0"
+VERSION = "1.2.0"
 # Sub-folder the site is served from: "" on www.gufino.com, "/gufino-website" on tnabo.github.io.
 # Set automatically by the deploy workflow from GitHub Pages' own configuration.
 BASE_PATH = os.environ.get("BASE_PATH", "").rstrip("/")
@@ -250,7 +250,7 @@ AMZ_ICON = '<svg viewBox="0 0 24 24" aria-hidden="true" class="amz"><path d="M3 
 
 def card(p):
     v = p["variants"][0]
-    sw = ""
+    sw = '<div class="card-swatches"></div>'
     if v["name"]:
         sw = '<div class="card-swatches">' + "".join(
             f'<span style="background:{x["swatch"]}" title="{esc(x["name"])}"></span>' for x in p["variants"]) + "</div>"
@@ -258,11 +258,10 @@ def card(p):
   <a class="card-img" href="/products/{p['handle']}/"><img src="{p['image']['src']}" alt="{esc(p['image']['alt'])}" loading="lazy" width="600" height="600"></a>
   <div class="card-body">
     <span class="eyebrow">{esc(COLLECTIONS[p['collection']]['title'])}</span>
-    <h3><a href="/products/{p['handle']}/">{esc(p['title'])}</a></h3>
+    <h3><a href="/products/{p['handle']}/" title="{esc(p['title'])}">{esc(p['title'])}</a></h3>
     {sw}
     <div class="card-actions">
-      <a class="btn btn-amz" href="{amazon(v['asin'])}" target="_blank" rel="noopener">{AMZ_ICON}Buy on Amazon</a>
-      <a class="link" href="/products/{p['handle']}/">Details</a>
+      <a class="btn btn-block" href="/products/{p['handle']}/">See more</a>
     </div>
   </div>
 </article>"""
