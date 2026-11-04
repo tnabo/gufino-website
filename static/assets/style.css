@@ -1,4 +1,4 @@
-/* Gufino Bilingual Learning – site styles v1.0.0 */
+/* Gufino Bilingual Learning – site styles v1.1.0 */
 :root{
   --teal:#06bdb2; --teal-d:#049a91; --blue:#1990c6; --sun:#ffc93c; --coral:#ff7a59;
   --ink:#16323f; --muted:#5b7280; --line:#e3ecef; --bg:#ffffff; --soft:#f2fbfa; --cream:#fff9ec;
@@ -173,3 +173,20 @@ p{margin:0 0 1em}
 .footer-base a{display:inline}
 @media (max-width:800px){.footer-grid{grid-template-columns:1fr 1fr}}
 @media (max-width:480px){.footer-grid{grid-template-columns:1fr}}
+
+/* video hero (v1.1.0) */
+.hero-video{position:relative;height:min(78vh,720px);min-height:440px;overflow:hidden;background:linear-gradient(135deg,var(--teal),var(--blue))}
+.hero-video video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.hero-video-overlay{position:absolute;inset:0;display:flex;align-items:center;background:linear-gradient(90deg,rgba(10,40,52,.62) 0%,rgba(10,40,52,.25) 60%,rgba(10,40,52,.05) 100%)}
+.hero-video h1{color:#fff;max-width:12em;text-shadow:0 2px 18px rgba(0,0,0,.25)}
+.hero-video .lede{color:#eaf8f7;margin-bottom:1.6rem}
+@media (max-width:700px){.hero-video{height:62vh;min-height:380px}.hero-video-overlay{background:rgba(10,40,52,.45)}}
+@media (prefers-reduced-motion:reduce){.hero-video video{display:none}}
+
+/* social handles (v1.1.0) */
+.handles{display:flex;flex-wrap:wrap;justify-content:center;gap:12px;margin-top:1.4rem}
+.handle{display:inline-flex;align-items:center;gap:10px;padding:10px 18px 10px 12px;border-radius:999px;background:#fff;border:2px solid var(--line);color:var(--ink);text-decoration:none;font-weight:800;transition:border-color .15s,transform .15s}
+.handle:hover{border-color:var(--teal);transform:translateY(-1px)}
+.handle svg{width:30px;height:30px;padding:6px;border-radius:50%;background:var(--teal);fill:#fff;flex:none}
+.handle span{display:flex;flex-direction:column;line-height:1.15;text-align:left}
+.handle small{font-size:.72rem;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}

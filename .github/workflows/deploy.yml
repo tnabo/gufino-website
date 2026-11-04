@@ -30,7 +30,7 @@ jobs:
           python-version: "3.12"
 
       - name: Import from Shopify (first run, or when requested)
-        if: ${{ hashFiles('data/shopify_products.json') == '' || inputs.reimport }}
+        if: ${{ hashFiles('data/shopify_products.json') == '' || hashFiles('static/videos/hero.mp4') == '' || inputs.reimport }}
         run: |
           python tools/import_shopify.py
           git config user.name  "github-actions[bot]"

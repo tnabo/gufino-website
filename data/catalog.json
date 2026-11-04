@@ -6,12 +6,13 @@
     "home_title": "Infants Educational Toys| 1,2,3 & 5 Year | Spanish-English Learning",
     "home_description": "Explore the best bilingual learning toys for infants at Gufino! Our educational, bilingual Spanish-English toys are perfect for 1, 2, 3, and 5 year olds, supporting language development and cognitive skills in two languages.",
     "social": {
-      "Instagram": "https://www.instagram.com/gufino_bilingual/",
-      "TikTok": "https://www.tiktok.com/@gufino_bilingual",
-      "Facebook": "https://www.facebook.com/gufinotoys",
-      "Pinterest": "https://www.pinterest.com/gufino_bilingual/",
-      "YouTube": "https://www.youtube.com/@gufinobilinguallearning"
+      "Instagram": {"url": "https://www.instagram.com/gufino_bilingual/", "handle": "@gufino_bilingual"},
+      "TikTok": {"url": "https://www.tiktok.com/@gufino_bilingual", "handle": "@gufino_bilingual"},
+      "Facebook": {"url": "https://www.facebook.com/gufinotoys", "handle": "@gufinotoys"},
+      "Pinterest": {"url": "https://www.pinterest.com/gufino_bilingual/", "handle": "@gufino_bilingual"},
+      "YouTube": {"url": "https://www.youtube.com/@Gufino_Bilingual", "handle": "@Gufino_Bilingual"}
     },
+    "hero_video": "https://cdn.shopify.com/videos/c/o/v/799b3bee10064bc4ab0920dd23b57e05.mp4",
     "collab_form": "https://docs.google.com/forms/d/e/1FAIpQLSeVdj7pXS-XODQkM8GY0ZPL8ov7pRZaqAjM73PjnvsTYA7-uQ/viewform?usp=sf_link"
   },
 

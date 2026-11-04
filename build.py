@@ -12,7 +12,7 @@ import re
 import shutil
 from html.parser import HTMLParser
 
-VERSION = "1.0.2"
+VERSION = "1.1.0"
 # Sub-folder the site is served from: "" on www.gufino.com, "/gufino-website" on tnabo.github.io.
 # Set automatically by the deploy workflow from GitHub Pages' own configuration.
 BASE_PATH = os.environ.get("BASE_PATH", "").rstrip("/")
@@ -160,8 +160,17 @@ ICONS = {
 
 def social_links(cls="social"):
     return f'<div class="{cls}">' + "".join(
-        f'<a href="{u}" target="_blank" rel="noopener" aria-label="{n}"><svg viewBox="0 0 24 24" aria-hidden="true">{ICONS[n]}</svg></a>'
-        for n, u in SITE["social"].items()) + "</div>"
+        f'<a href="{s["url"]}" target="_blank" rel="noopener" aria-label="{n} {esc(s["handle"])}"><svg viewBox="0 0 24 24" aria-hidden="true">{ICONS[n]}</svg></a>'
+        for n, s in SITE["social"].items()) + "</div>"
+
+
+def social_handles():
+    """Social buttons showing the network name and handle (homepage)."""
+    return '<div class="handles">' + "".join(
+        f'<a class="handle" href="{s["url"]}" target="_blank" rel="noopener">'
+        f'<svg viewBox="0 0 24 24" aria-hidden="true">{ICONS[n]}</svg>'
+        f'<span><small>{n}</small>{esc(s["handle"])}</span></a>'
+        for n, s in SITE["social"].items()) + "</div>"
 
 
 def layout(url, title, description, body, image=None, extra_head="", canonical=True):
@@ -271,37 +280,32 @@ def hero_band(kicker, title, sub=""):
 
 # ---------------------------------------------------------------- pages
 def build_home():
-    feat = [p for p in PRODUCTS][:3]
     tiles = "".join(
         f"""<a class="tile" href="/collections/{c['handle']}/">
 <img src="{next((p['image']['src'] for p in PRODUCTS if p['collection']==c['handle']), '')}" alt="" loading="lazy" width="400" height="400">
 <span>{esc(c['title'])}</span></a>""" for c in catalog["collections"])
     body = f"""
-<section class="hero">
-  <div class="wrap hero-grid">
-    <div class="hero-copy">
-      <span class="kicker">English · Español</span>
+<section class="hero-video">
+  <video autoplay muted loop playsinline preload="metadata" poster="/videos/hero.jpg" aria-hidden="true">
+    <source src="/videos/hero.mp4" type="video/mp4">
+  </video>
+  <div class="hero-video-overlay">
+    <div class="wrap">
       <h1>Bilingual Learning Made Fun</h1>
       <p class="lede">Innovative resources designed to enrich your child's future.</p>
-      <div class="hero-actions">
-        <a class="btn" href="/collections/all/">Shop Now</a>
-        <a class="btn btn-ghost" href="/pages/about-us/">Our story</a>
-      </div>
-    </div>
-    <div class="hero-art">
-      {"".join(f'<img class="h{i}" src="{p["image"]["src"]}" alt="{esc(p["title"])}" width="400" height="400">' for i, p in enumerate(feat))}
+      <a class="btn btn-lg" href="/collections/all/">Shop Now</a>
     </div>
   </div>
 </section>
 
 <section class="section"><div class="wrap">
-  <div class="section-head"><h2>Shop by category</h2></div>
-  <div class="tiles">{tiles}</div>
+  <div class="section-head"><h2>Best Sellers</h2><a class="link" href="/collections/all/">See all</a></div>
+  {grid(PRODUCTS)}
 </div></section>
 
 <section class="section alt"><div class="wrap">
-  <div class="section-head"><h2>Best Sellers</h2><a class="link" href="/collections/all/">See all</a></div>
-  {grid(PRODUCTS)}
+  <div class="section-head"><h2>Search our catalog</h2></div>
+  <div class="tiles">{tiles}</div>
 </div></section>
 
 <section class="section"><div class="wrap perks">
@@ -323,8 +327,8 @@ def build_home():
 
 <section class="section"><div class="wrap join">
   <h2>Join the Gufino family!</h2>
-  <p>Follow us to stay updated on all things GUFINO: new products, free resources, promotions and playful contests.</p>
-  {social_links("social social-lg")}
+  <p>Don't miss out! Follow us on our social media channels to stay updated on all things GUFINO. We share our latest products, free resources, exciting promotions, and much more. Join the fun and be the first to know about our news, exclusive deals, and playful contests!</p>
+  {social_handles()}
 </div></section>
 """
     write("index.html", layout("/", SITE["home_title"], SITE["home_description"], body,
