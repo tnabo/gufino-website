@@ -1,0 +1,76 @@
+{
+  "site": {
+    "name": "Gufino Bilingual Learning",
+    "domain": "www.gufino.com",
+    "email": "info@gufino.com",
+    "home_title": "Infants Educational Toys| 1,2,3 & 5 Year | Spanish-English Learning",
+    "home_description": "Explore the best bilingual learning toys for infants at Gufino! Our educational, bilingual Spanish-English toys are perfect for 1, 2, 3, and 5 year olds, supporting language development and cognitive skills in two languages.",
+    "social": {
+      "Instagram": "https://www.instagram.com/gufino_bilingual/",
+      "TikTok": "https://www.tiktok.com/@gufino_bilingual",
+      "Facebook": "https://www.facebook.com/gufinotoys",
+      "Pinterest": "https://www.pinterest.com/gufino_bilingual/",
+      "YouTube": "https://www.youtube.com/@gufinobilinguallearning"
+    },
+    "collab_form": "https://docs.google.com/forms/d/e/1FAIpQLSeVdj7pXS-XODQkM8GY0ZPL8ov7pRZaqAjM73PjnvsTYA7-uQ/viewform?usp=sf_link"
+  },
+
+  "collections": [
+    {"handle": "6-and-over", "title": "Interactive Posters", "blurb": "Press-and-play talking posters that teach letters, numbers, first words and the human body in English and Spanish."},
+    {"handle": "3-6", "title": "Learning Ebooks", "blurb": "Electronic workbooks with audio in both languages, tracing pages and songs for preschool learning."},
+    {"handle": "sound-books", "title": "Sound Books", "blurb": "Bilingual sound books with nursery rhymes and stories for babies and toddlers."},
+    {"handle": "bilingual-flash-cards", "title": "Flash Cards", "blurb": "Talking flash cards: 300 cards and 600 audios in English and Spanish."}
+  ],
+
+  "products": [
+    {"handle": "bilingual-alphabet-poster-interactive", "collection": "6-and-over", "asin": "B07TZW8CZC"},
+    {"handle": "bilingual-talking-numbers", "collection": "6-and-over", "asin": "B083HFF2NB"},
+    {"handle": "bilingual-learning-word-e-book", "collection": "3-6", "asin": "B09PHS5TKC"},
+    {"handle": "bilingual-first-100-words-learning-toy", "collection": "6-and-over", "asin": "B0D18PYTN2"},
+    {"handle": "english-spanish-nursery-rhymes-book-sound-book", "collection": "sound-books", "asin": "B0D7KTT237"},
+    {"handle": "typical-english-nursery-rhymes-spanish-english-bilingual-sound-book", "collection": "sound-books", "asin": "B0D18MZSPT"},
+    {"handle": "copy-of-typical-english-nursery-rhymes-spanish-english-bilingual-sound-book", "collection": "sound-books", "asin": "B0D7K9299G"},
+    {
+      "handle": "english-spanish-flash-cards-for-kids",
+      "collection": "bilingual-flash-cards",
+      "title": "English & Spanish Talking Flash Cards for Kids",
+      "variants": [
+        {"name": "Blue", "swatch": "#2f7fd6", "source": "english-spanish-flash-cards-for-kids-bilingual-flash-cards", "asin": "B0DK83VXPY"},
+        {"name": "Light Pink", "swatch": "#f7a8c4", "source": "english-spanish-flash-cards-for-kids-bilingual-flash-cards-1", "asin": "B0DK84TBRJ"},
+        {"name": "Green", "swatch": "#43b45a", "source": "english-spanish-flash-cards-for-kids", "asin": "B0D199JJXZ"}
+      ]
+    },
+    {"handle": "preschool-workbook-spanish-and-english-audio-in-both-languages", "collection": "3-6", "asin": "B0D191815S"},
+    {"handle": "human-body-poster-for-kids-organs-muscles-bones-spanish-and-english", "collection": "6-and-over", "asin": "B0D19HCYMG"}
+  ],
+
+  "redirects": {
+    "products/english-spanish-flash-cards-for-kids-bilingual-flash-cards": "/products/english-spanish-flash-cards-for-kids/?color=blue",
+    "products/english-spanish-flash-cards-for-kids-bilingual-flash-cards-1": "/products/english-spanish-flash-cards-for-kids/?color=light-pink",
+    "products/bilingual-talking-flash-cards-for-toddlers": "/products/english-spanish-flash-cards-for-kids/",
+    "pages/gufinofamily": "/",
+    "cart": "/collections/all/",
+    "search": "/collections/all/",
+    "account": "/",
+    "account/login": "/",
+    "collections": "/collections/all/",
+    "products": "/collections/all/"
+  },
+
+  "site_images": [
+    "Gufino-AltColor-w2000-trans.png",
+    "GUFINO_FULL_COLOR_-_TRANS_1_1.png",
+    "05_1.png",
+    "ImageForWeb.jpg",
+    "02c.jpg",
+    "3-ALPHABETPOSTER.jpg",
+    "2024-03-05_165615.jpg"
+  ],
+
+  "policies": [
+    {"handle": "privacy-policy", "title": "Privacy Policy"},
+    {"handle": "refund-policy", "title": "Refund Policy"},
+    {"handle": "shipping-policy", "title": "Shipping Policy"},
+    {"handle": "terms-of-service", "title": "Terms of Service"}
+  ]
+}
