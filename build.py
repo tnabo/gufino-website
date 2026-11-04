@@ -12,7 +12,7 @@ import re
 import shutil
 from html.parser import HTMLParser
 
-VERSION = "1.3.0"
+VERSION = "1.3.1"
 # Sub-folder the site is served from: "" on www.gufino.com, "/gufino-website" on tnabo.github.io.
 # Set automatically by the deploy workflow from GitHub Pages' own configuration.
 BASE_PATH = os.environ.get("BASE_PATH", "").rstrip("/")

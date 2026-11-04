@@ -1,4 +1,4 @@
-/* Gufino Bilingual Learning – site styles v1.2.0 */
+/* Gufino Bilingual Learning – site styles v1.3.0 */
 :root{
   --teal:#06bdb2; --teal-d:#049a91; --blue:#1990c6; --sun:#ffc93c; --coral:#ff7a59;
   --ink:#16323f; --muted:#5b7280; --line:#e3ecef; --bg:#ffffff; --soft:#f2fbfa; --cream:#fff9ec;
@@ -198,3 +198,75 @@ p{margin:0 0 1em}
 .handle svg{width:30px;height:30px;padding:6px;border-radius:50%;background:var(--teal);fill:#fff;flex:none}
 .handle span{display:flex;flex-direction:column;line-height:1.15;text-align:left}
 .handle small{font-size:.72rem;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
+
+/* ---------- phone layout (v1.3.0) ---------- */
+.product>*{min-width:0}                       /* stop the gallery from widening the page */
+@media (max-width:700px){
+  body{font-size:16px}
+  .wrap{padding:0 16px}
+  .section{padding:40px 0}
+  .section-head{margin-bottom:16px}
+  .section-head h2{font-size:1.45rem;margin:0}
+  .band{padding:32px 0 24px}
+  .band h1{font-size:1.9rem}
+  .lede{font-size:1.05rem}
+
+  /* hero: full video on top, text below on brand colour */
+  .hero-video{height:auto;min-height:0;background:linear-gradient(135deg,var(--teal),var(--blue))}
+  .hero-video video{position:relative;display:block;width:100%;height:auto;aspect-ratio:16/9}
+  .hero-video-overlay{position:static;background:none;padding:22px 0 28px}
+  .hero-video h1{font-size:1.85rem;max-width:none;margin-bottom:.3em}
+  .hero-video .lede{margin-bottom:1.1rem;color:#fff}
+  .hero-video .btn-lg{width:100%;justify-content:center;padding:.85em 1em}
+
+  /* product grids: two compact cards per row */
+  .grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+  .card{border-radius:14px}
+  .card-body{padding:10px 12px 12px}
+  .eyebrow{font-size:.62rem;letter-spacing:.08em}
+  .card-body h3{font-size:.86rem;line-height:1.3;height:calc(1.3em * 3);margin:.3em 0 .6em}
+  .card-swatches{margin:-.2em 0 8px;min-height:12px}
+  .card-swatches span{width:12px;height:12px}
+  .card-actions .btn{font-size:.85rem;padding:.55em .6em}
+
+  /* category tiles */
+  .tiles{gap:12px}
+  .tile span{padding:10px 12px;font-size:.95rem}
+
+  /* filter chips scroll sideways instead of wrapping */
+  .chips{flex-wrap:nowrap;overflow-x:auto;margin:0 -16px 20px;padding:0 16px 4px;scrollbar-width:none}
+  .chips::-webkit-scrollbar{display:none}
+  .chip{flex:none}
+
+  /* perks: compact rows */
+  .perks{grid-template-columns:1fr;gap:10px;text-align:left}
+  .perks div{padding:14px 16px}
+  .perks h3{margin-bottom:.2em;font-size:1rem}
+
+  .story,.split{gap:22px}
+  .split{margin-bottom:36px}
+
+  /* social handle buttons: two per row */
+  .handles{display:grid;grid-template-columns:1fr;gap:8px;max-width:320px;margin-left:auto;margin-right:auto}
+  .handle{padding:8px 14px 8px 8px;gap:10px}
+  .handle span{font-size:.92rem}
+
+  /* product page */
+  .crumbs{padding-top:12px;font-size:.82rem}
+  .product{gap:18px;padding-top:12px;padding-bottom:40px}
+  .thumbs{gap:8px}
+  .thumb{flex:0 0 60px}
+  .product-info h1{font-size:1.5rem;margin:.2em 0 .5em}
+  .swatches{gap:8px;margin-bottom:16px}
+  /* Buy on Amazon pinned to the bottom of the screen on product pages */
+  .product-info #buy{position:fixed;left:16px;right:16px;bottom:calc(12px + env(safe-area-inset-bottom));z-index:40;justify-content:center;box-shadow:0 8px 24px rgba(0,0,0,.22)}
+  body:has(#buy){padding-bottom:84px}
+  .note{margin:.7em 0 1.2em}
+  .desc{font-size:.95rem}
+
+  /* footer: two columns, brand block full width */
+  .site-footer{padding:36px 0 20px}
+  .footer-grid{grid-template-columns:1fr 1fr;gap:24px 16px}
+  .footer-grid>div:first-child{grid-column:1/-1}
+  .footer-base{margin-top:24px}
+}
