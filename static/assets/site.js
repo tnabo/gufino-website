@@ -1,4 +1,4 @@
-// Gufino site script v1.0.0
+// Gufino site script v1.1.0
 (function () {
   // mobile menu
   var btn = document.querySelector('.menu-btn'), nav = document.getElementById('nav');
@@ -27,7 +27,15 @@
     document.querySelectorAll('.gallery').forEach(function (g) {
       var on = g.dataset.variant === slug;
       g.hidden = !on;
-      if (on) { found = true; if (buy) buy.href = 'https://www.amazon.com/dp/' + g.dataset.asin; }
+      if (on) {
+        found = true;
+        if (buy) {
+          buy.href = 'https://www.amazon.com/dp/' + g.dataset.asin;
+          buy.dataset.asin = g.dataset.asin;
+          var sw = document.querySelector('.swatch[data-variant="' + slug + '"]');
+          if (sw) buy.dataset.color = sw.textContent.trim();
+        }
+      }
     });
     if (!found) return;
     swatches.forEach(function (s) {
@@ -42,4 +50,15 @@
   swatches.forEach(function (s) { s.addEventListener('click', function () { pick(s.dataset.variant, true); }); });
   var c = new URLSearchParams(location.search).get('color');
   if (c && swatches.length) pick(c, false);
+
+  // Google Analytics: record "Buy on Amazon" clicks (product, ASIN, color)
+  if (buy) buy.addEventListener('click', function () {
+    if (typeof window.gtag !== 'function') return;
+    window.gtag('event', 'buy_on_amazon', {
+      product_name: buy.dataset.product || document.title,
+      asin: buy.dataset.asin || '',
+      color: buy.dataset.color || '',
+      transport_type: 'beacon'
+    });
+  });
 })();

@@ -12,7 +12,7 @@ import re
 import shutil
 from html.parser import HTMLParser
 
-VERSION = "1.2.0"
+VERSION = "1.3.0"
 # Sub-folder the site is served from: "" on www.gufino.com, "/gufino-website" on tnabo.github.io.
 # Set automatically by the deploy workflow from GitHub Pages' own configuration.
 BASE_PATH = os.environ.get("BASE_PATH", "").rstrip("/")
@@ -24,6 +24,16 @@ catalog = json.load(open(os.path.join(DATA, "catalog.json"), encoding="utf-8"))
 SITE = catalog["site"]
 BASE = "https://" + SITE["domain"]
 esc = html.escape
+
+# Google Analytics 4 (gtag.js) – included on every page when a measurement ID is set
+_GA = SITE.get("ga_measurement_id", "")
+GA_TAG = f"""<script async src="https://www.googletagmanager.com/gtag/js?id={_GA}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){{dataLayer.push(arguments);}}
+  gtag('js', new Date());
+  gtag('config', '{_GA}');
+</script>""" if _GA else ""
 
 
 # ---------------------------------------------------------------- helpers
@@ -198,6 +208,7 @@ def layout(url, title, description, body, image=None, extra_head="", canonical=T
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/assets/style.css?v={VERSION}">
+{GA_TAG}
 {extra_head}
 </head>
 <body>
@@ -386,7 +397,7 @@ def build_products():
     <span class="eyebrow">{esc(coll['title'])}</span>
     <h1>{esc(p['title'])}</h1>
     {swatch_html}
-    <a class="btn btn-amz btn-lg" id="buy" href="{amazon(v0['asin'])}" target="_blank" rel="noopener">{AMZ_ICON}Buy on Amazon</a>
+    <a class="btn btn-amz btn-lg" id="buy" href="{amazon(v0['asin'])}" target="_blank" rel="noopener" data-product="{esc(p['title'])}" data-asin="{v0['asin']}" data-color="{esc(v0['name'] or '')}">{AMZ_ICON}Buy on Amazon</a>
     <p class="note">Sold and shipped through Amazon. Prices and availability are shown on Amazon.</p>
     <div class="desc">{p['body']}</div>
   </div>
