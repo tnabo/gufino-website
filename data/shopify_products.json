@@ -1,0 +1,1721 @@
+{
+ "products": [
+  {
+   "id": 9681019076888,
+   "title": "English & Spanish Flash Cards for Kids - Bilingual Flash Cards",
+   "handle": "english-spanish-flash-cards-for-kids-bilingual-flash-cards",
+   "body_html": "<ul class=\"a-unordered-list a-vertical a-spacing-mini\">\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Enhance your child's preschool learning activities</strong> with our innovative electronic flashcard reader, a standout among kids and toddler learning toys. Featuring 300 bilingual English and Spanish kids and toddler flash cards and 600 audios, it's perfectly crafted to teach ABCs, numbers, colors, shapes, foods, clothes, animals, sight words, emotions, and more, supporting a comprehensive learning experience at home.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Discover the ultimate preschool toys: </strong>an electronic reader featuring alphabet flash cards for toddlers 1-3 and more advanced flash cards for kids ages 4-8. Designed with an On/Off button and adjustable volume to avoid unnecessary noise, it also includes a soothing white noise feature, perfect for naptime or a peaceful sleepytime, blocking out distractions and creating a tranquil environment.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Revolutionize learning</strong> with our ABC flash cards and toddler flash cards 1-2, the ultimate preschool learning toys. Offering a perfect alternative to screen time, these educational tools are meticulously designed to align with Common Core Standards (CCSS), ensuring your child gains foundational skills in a fun, interactive way that echoes the curriculum of most states.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Introduce an engaging </strong>way to learn with our sight word flash cards, designed for pre k learning activities and flash cards for toddlers 3-5 years. Effortlessly simple: slide the card into the reader, and it articulates words in both English &amp; Spanish. Upon insertion, the card reader activates, emitting the appropriate sound, making education both fun and accessible.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Descubre nuestros juguetes </strong>de niñas y niños, ideales juguetes para niños de 3 años y mayores. En Gufino, nos especializamos en juguetes para niñas y niños que fomentan el aprendizaje del inglés y español. Aquí, hablamos tu idioma y diseñamos juguetes educativos para que tus hijos crezcan con el privilegio de ser bilingües.</span></li>\n</ul>",
+   "published_at": "2025-03-06T18:52:28-05:00",
+   "created_at": "2025-03-06T18:41:19-05:00",
+   "updated_at": "2026-11-04T06:37:28-05:00",
+   "vendor": "Gufino",
+   "product_type": "Flash Cards",
+   "tags": [
+    "bilingual",
+    "MCF"
+   ],
+   "variants": [
+    {
+     "id": 49848137777432,
+     "title": "Default Title",
+     "option1": "Default Title",
+     "option2": null,
+     "option3": null,
+     "sku": "GF_FlashCards_01_Blue",
+     "requires_shipping": true,
+     "taxable": true,
+     "featured_image": null,
+     "available": true,
+     "price": "23.95",
+     "grams": 454,
+     "compare_at_price": "24.95",
+     "position": 2,
+     "product_id": 9681019076888,
+     "created_at": "2025-03-06T18:41:19-05:00",
+     "updated_at": "2026-11-04T06:37:28-05:00"
+    }
+   ],
+   "images": [
+    {
+     "id": 48714016456984,
+     "created_at": "2025-03-06T18:47:59-05:00",
+     "position": 1,
+     "updated_at": "2025-03-06T18:55:42-05:00",
+     "product_id": 9681019076888,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/06kindergartenflashcardsBlue.jpg?v=1741305342",
+     "width": 2049,
+     "height": 2049
+    },
+    {
+     "id": 48714016620824,
+     "created_at": "2025-03-06T18:47:59-05:00",
+     "position": 2,
+     "updated_at": "2025-03-06T18:55:42-05:00",
+     "product_id": 9681019076888,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/01TalkingFlashCardsBlue.jpg?v=1741305342",
+     "width": 2049,
+     "height": 2048
+    },
+    {
+     "id": 48714016653592,
+     "created_at": "2025-03-06T18:47:59-05:00",
+     "position": 3,
+     "updated_at": "2025-03-06T18:55:42-05:00",
+     "product_id": 9681019076888,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/04sensorybrushesforautismkidsBlue.jpg?v=1741305342",
+     "width": 2049,
+     "height": 2049
+    },
+    {
+     "id": 48714016588056,
+     "created_at": "2025-03-06T18:47:59-05:00",
+     "position": 4,
+     "updated_at": "2025-03-06T18:55:42-05:00",
+     "product_id": 9681019076888,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/05Blue.jpg?v=1741305342",
+     "width": 2049,
+     "height": 2049
+    },
+    {
+     "id": 48714016424216,
+     "created_at": "2025-03-06T18:47:59-05:00",
+     "position": 5,
+     "updated_at": "2025-03-06T18:55:42-05:00",
+     "product_id": 9681019076888,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/05toddlertalkingflashBlue.jpg?v=1741305342",
+     "width": 2049,
+     "height": 2049
+    },
+    {
+     "id": 48714016358680,
+     "created_at": "2025-03-06T18:47:59-05:00",
+     "position": 6,
+     "updated_at": "2025-03-06T18:48:04-05:00",
+     "product_id": 9681019076888,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/07educationaltoys1-3Blue.jpg?v=1741304884",
+     "width": 2049,
+     "height": 2049
+    },
+    {
+     "id": 48714016391448,
+     "created_at": "2025-03-06T18:47:59-05:00",
+     "position": 7,
+     "updated_at": "2025-03-06T18:48:00-05:00",
+     "product_id": 9681019076888,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/02SpanishFlashcardsforKidsBlue.jpg?v=1741304880",
+     "width": 2049,
+     "height": 2048
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "position": 1,
+     "values": [
+      "Default Title"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 9681022026008,
+   "title": "English & Spanish Flash Cards for Kids - Bilingual Flash Cards",
+   "handle": "english-spanish-flash-cards-for-kids-bilingual-flash-cards-1",
+   "body_html": "<ul class=\"a-unordered-list a-vertical a-spacing-mini\">\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Enhance your child's preschool learning activities</strong> with our innovative electronic flashcard reader, a standout among kids and toddler learning toys. Featuring 300 bilingual English and Spanish kids and toddler flash cards and 600 audios, it's perfectly crafted to teach ABCs, numbers, colors, shapes, foods, clothes, animals, sight words, emotions, and more, supporting a comprehensive learning experience at home.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Discover the ultimate preschool toys: </strong>an electronic reader featuring alphabet flash cards for toddlers 1-3 and more advanced flash cards for kids ages 4-8. Designed with an On/Off button and adjustable volume to avoid unnecessary noise, it also includes a soothing white noise feature, perfect for naptime or a peaceful sleepytime, blocking out distractions and creating a tranquil environment.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Revolutionize learning</strong> with our ABC flash cards and toddler flash cards 1-2, the ultimate preschool learning toys. Offering a perfect alternative to screen time, these educational tools are meticulously designed to align with Common Core Standards (CCSS), ensuring your child gains foundational skills in a fun, interactive way that echoes the curriculum of most states.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Introduce an engaging </strong>way to learn with our sight word flash cards, designed for pre k learning activities and flash cards for toddlers 3-5 years. Effortlessly simple: slide the card into the reader, and it articulates words in both English &amp; Spanish. Upon insertion, the card reader activates, emitting the appropriate sound, making education both fun and accessible.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Descubre nuestros juguetes </strong>de niñas y niños, ideales juguetes para niños de 3 años y mayores. En Gufino, nos especializamos en juguetes para niñas y niños que fomentan el aprendizaje del inglés y español. Aquí, hablamos tu idioma y diseñamos juguetes educativos para que tus hijos crezcan con el privilegio de ser bilingües.</span></li>\n</ul>",
+   "published_at": "2025-03-06T18:52:09-05:00",
+   "created_at": "2025-03-06T18:50:16-05:00",
+   "updated_at": "2026-11-04T06:37:28-05:00",
+   "vendor": "Gufino",
+   "product_type": "Flash Cards",
+   "tags": [
+    "bilingual",
+    "MCF"
+   ],
+   "variants": [
+    {
+     "id": 49848168907032,
+     "title": "Default Title",
+     "option1": "Default Title",
+     "option2": null,
+     "option3": null,
+     "sku": "GF_FlashCards_01_PinkLight",
+     "requires_shipping": true,
+     "taxable": true,
+     "featured_image": null,
+     "available": true,
+     "price": "23.95",
+     "grams": 454,
+     "compare_at_price": "24.95",
+     "position": 2,
+     "product_id": 9681022026008,
+     "created_at": "2025-03-06T18:50:16-05:00",
+     "updated_at": "2026-11-04T06:37:28-05:00"
+    }
+   ],
+   "images": [
+    {
+     "id": 48714039460120,
+     "created_at": "2025-03-06T18:51:00-05:00",
+     "position": 1,
+     "updated_at": "2025-03-06T18:51:08-05:00",
+     "product_id": 9681022026008,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/06toddlertalkingflashcards.jpg?v=1741305068",
+     "width": 2049,
+     "height": 2049
+    },
+    {
+     "id": 48714039394584,
+     "created_at": "2025-03-06T18:51:00-05:00",
+     "position": 2,
+     "updated_at": "2025-03-06T18:51:08-05:00",
+     "product_id": 9681022026008,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/07SpanishflashcardsforkidsLightPink.jpg?v=1741305068",
+     "width": 2049,
+     "height": 2048
+    },
+    {
+     "id": 48714039361816,
+     "created_at": "2025-03-06T18:51:00-05:00",
+     "position": 3,
+     "updated_at": "2025-03-06T18:51:08-05:00",
+     "product_id": 9681022026008,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/01FlashcardsforToddlers3-5Years.jpg?v=1741305068",
+     "width": 2049,
+     "height": 2048
+    },
+    {
+     "id": 48714039689496,
+     "created_at": "2025-03-06T18:51:00-05:00",
+     "position": 4,
+     "updated_at": "2025-03-06T18:51:08-05:00",
+     "product_id": 9681022026008,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/02MontessoriToysfor3.jpg?v=1741305068",
+     "width": 2049,
+     "height": 2048
+    },
+    {
+     "id": 48714039492888,
+     "created_at": "2025-03-06T18:51:00-05:00",
+     "position": 5,
+     "updated_at": "2025-03-06T18:51:08-05:00",
+     "product_id": 9681022026008,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/03LearningGamesBlue.jpg?v=1741305068",
+     "width": 2049,
+     "height": 2049
+    },
+    {
+     "id": 48714039591192,
+     "created_at": "2025-03-06T18:51:00-05:00",
+     "position": 6,
+     "updated_at": "2025-03-06T18:51:08-05:00",
+     "product_id": 9681022026008,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/03PreschoolSuppliesLightPink.jpg?v=1741305068",
+     "width": 2049,
+     "height": 2049
+    },
+    {
+     "id": 48714039558424,
+     "created_at": "2025-03-06T18:51:00-05:00",
+     "position": 7,
+     "updated_at": "2025-03-06T18:51:08-05:00",
+     "product_id": 9681022026008,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/04LearningResources.jpg?v=1741305068",
+     "width": 2049,
+     "height": 2049
+    },
+    {
+     "id": 48714039427352,
+     "created_at": "2025-03-06T18:51:00-05:00",
+     "position": 8,
+     "updated_at": "2025-03-06T18:51:08-05:00",
+     "product_id": 9681022026008,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/05JuguetesparaNinasde3Anos.jpg?v=1741305068",
+     "width": 2049,
+     "height": 2049
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "position": 1,
+     "values": [
+      "Default Title"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 9391302410520,
+   "title": "Human Body Poster for Kids: Organs, Muscles & Bones - Spanish and English",
+   "handle": "human-body-poster-for-kids-organs-muscles-bones-spanish-and-english",
+   "body_html": "<p> </p>\n<h3 data-hook=\"product-title\" class=\"_2qrJF\">Gufino Bilingual Interactive Poster</h3>\n<ul>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Bilingual Human Anatomy Poster</strong> – This interactive human body model teaches kids about organs, muscles &amp; bones in English &amp; Spanish. Engaging games &amp; quizzes make learning anatomy for kids fun &amp; effective!</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Interactive Human Anatomy Model</strong> – Unlike static anatomy posters, this talking human body for kids features touch-activated learning, interesting facts &amp; quizzes to reinforce knowledge in an engaging way.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Durable Human Body Poster for Kids</strong> – Designed for hands-on learning, this human anatomy model can be wall-mounted or used as a play mat. Sturdy &amp; frustration-free buttons ensure easy use.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Educational Human Body Model</strong> – More than standard human anatomy posters, this poster provides perfect pronunciation in two languages, helping kids build bilingual science vocabulary.</span></li>\n<li class=\"a-spacing-mini\">\n<span class=\"a-list-item\"><strong>Complete Learning Anatomy for Kids </strong>– This human body poster includes adjustable volume, high-quality sound, &amp; professional translations. A screen-free way to explore the wonders of the human body!</span><strong></strong>\n</li>\n</ul>",
+   "published_at": "2024-07-18T20:07:21-04:00",
+   "created_at": "2024-07-18T20:01:04-04:00",
+   "updated_at": "2026-11-04T06:37:28-05:00",
+   "vendor": "Gufino",
+   "product_type": "Talking Poster",
+   "tags": [
+    "bilingual",
+    "MCF",
+    "poster"
+   ],
+   "variants": [
+    {
+     "id": 48845110182168,
+     "title": "Default Title",
+     "option1": "Default Title",
+     "option2": null,
+     "option3": null,
+     "sku": "GF_HumanBody_02R",
+     "requires_shipping": true,
+     "taxable": true,
+     "featured_image": null,
+     "available": true,
+     "price": "29.99",
+     "grams": 549,
+     "compare_at_price": null,
+     "position": 1,
+     "product_id": 9391302410520,
+     "created_at": "2024-07-18T20:01:05-04:00",
+     "updated_at": "2026-11-04T06:37:28-05:00"
+    }
+   ],
+   "images": [
+    {
+     "id": 52800674890008,
+     "created_at": "2026-04-28T16:32:56-04:00",
+     "position": 1,
+     "updated_at": "2026-04-28T16:32:58-04:00",
+     "product_id": 9391302410520,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/01.png?v=1777408378",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "id": 52800674857240,
+     "created_at": "2026-04-28T16:32:55-04:00",
+     "position": 2,
+     "updated_at": "2026-04-28T16:32:58-04:00",
+     "product_id": 9391302410520,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/02.png?v=1777408378",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "id": 52800674824472,
+     "created_at": "2026-04-28T16:32:55-04:00",
+     "position": 3,
+     "updated_at": "2026-04-28T16:32:58-04:00",
+     "product_id": 9391302410520,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/03.png?v=1777408378",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "id": 52800674726168,
+     "created_at": "2026-04-28T16:32:55-04:00",
+     "position": 4,
+     "updated_at": "2026-04-28T16:32:57-04:00",
+     "product_id": 9391302410520,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/04_learning_body_parts.jpg?v=1777408377",
+     "width": 2560,
+     "height": 2560
+    },
+    {
+     "id": 52800674693400,
+     "created_at": "2026-04-28T16:32:55-04:00",
+     "position": 5,
+     "updated_at": "2026-04-28T16:32:57-04:00",
+     "product_id": 9391302410520,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/05_Bilingual_Game.jpg?v=1777408377",
+     "width": 2560,
+     "height": 2560
+    },
+    {
+     "id": 52800674791704,
+     "created_at": "2026-04-28T16:32:55-04:00",
+     "position": 6,
+     "updated_at": "2026-04-28T16:32:58-04:00",
+     "product_id": 9391302410520,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/06.png?v=1777408378",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "id": 52800674758936,
+     "created_at": "2026-04-28T16:32:55-04:00",
+     "position": 7,
+     "updated_at": "2026-04-28T16:32:57-04:00",
+     "product_id": 9391302410520,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/07.png?v=1777408377",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "position": 1,
+     "values": [
+      "Default Title"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 9214317560088,
+   "title": "Preschool Workbook - Spanish and English - Audio in both languages",
+   "handle": "preschool-workbook-spanish-and-english-audio-in-both-languages",
+   "body_html": "<ul class=\"a-unordered-list a-vertical a-spacing-mini\">\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Toddler Bilingual Learning Toys for Early Education</strong> – Our bilingual learning toys for toddlers 1-3 or 3-5 make Spanish learning fun! Featuring kindergarten workbooks-style exercises, this learn Spanish workbook builds vocabulary, motor skills, and early writing confidence.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Interactive Spanish-English Books for Kids </strong>– Designed to engage young learners, this bilingual learning toy combines play with education. An essential Spanish-English book for kids, it includes fun activities to enhance bilingual skills.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Learn Spanish for Beginners with Reusable Pages</strong> – This kids Spanish workbook follows a preschool homeschool curriculum, offering engaging dry-erase pages. As a Spanish workbook, it provides hands-on practice that supports Spanish learning book fundamentals for preschool and kinder.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Dry Erase Toddler Workbook for Daily Learning </strong>– this reusable workbook is perfect for preschoolers. Ideal for families seeking a Spanish learning book, it helps reinforce language and literacy skills through repetition.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Durable, Child-Safe Learning Book for Early Education </strong>– Built for everyday learning, this kindergarten workbook supports Spanish learning at home or in school. The learn Spanish workbook for kids is designed to make bilingual education easy, engaging, and fun.</span></li>\n</ul>",
+   "published_at": "2024-05-09T10:21:33-04:00",
+   "created_at": "2024-05-09T06:58:16-04:00",
+   "updated_at": "2026-11-04T06:37:28-05:00",
+   "vendor": "Gufino",
+   "product_type": "Learning Ebook",
+   "tags": [
+    "bilingual",
+    "MCF"
+   ],
+   "variants": [
+    {
+     "id": 48424994701592,
+     "title": "Default Title",
+     "option1": "Default Title",
+     "option2": null,
+     "option3": null,
+     "sku": "GF_PreSchool_Hero_01",
+     "requires_shipping": true,
+     "taxable": true,
+     "featured_image": null,
+     "available": true,
+     "price": "24.95",
+     "grams": 454,
+     "compare_at_price": "29.95",
+     "position": 2,
+     "product_id": 9214317560088,
+     "created_at": "2024-05-09T06:58:18-04:00",
+     "updated_at": "2026-11-04T06:37:28-05:00"
+    }
+   ],
+   "images": [
+    {
+     "id": 52815352824088,
+     "created_at": "2026-04-30T15:32:58-04:00",
+     "position": 1,
+     "updated_at": "2026-04-30T15:33:00-04:00",
+     "product_id": 9214317560088,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/1_de616053-aeee-40a1-a2b7-a767ed98db69.jpg?v=1777577580",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "id": 52815352856856,
+     "created_at": "2026-04-30T15:32:58-04:00",
+     "position": 2,
+     "updated_at": "2026-04-30T15:33:00-04:00",
+     "product_id": 9214317560088,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/2_8d6d1786-a816-4a3c-a624-5615e2f35e0b.jpg?v=1777577580",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "id": 52815352889624,
+     "created_at": "2026-04-30T15:32:58-04:00",
+     "position": 3,
+     "updated_at": "2026-04-30T15:33:00-04:00",
+     "product_id": 9214317560088,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/3_4de19265-593d-4a37-80c1-4b9cf0553479.jpg?v=1777577580",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "id": 52815352922392,
+     "created_at": "2026-04-30T15:32:58-04:00",
+     "position": 4,
+     "updated_at": "2026-04-30T15:33:00-04:00",
+     "product_id": 9214317560088,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/4_86d26413-2933-495b-8a3e-138ac7e3a0f7.jpg?v=1777577580",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "id": 52815352955160,
+     "created_at": "2026-04-30T15:32:58-04:00",
+     "position": 5,
+     "updated_at": "2026-04-30T15:33:00-04:00",
+     "product_id": 9214317560088,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/5_fff5fcb6-6b0d-4c46-8ccb-b881c596c7bc.jpg?v=1777577580",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "id": 52815352987928,
+     "created_at": "2026-04-30T15:32:58-04:00",
+     "position": 6,
+     "updated_at": "2026-04-30T15:33:00-04:00",
+     "product_id": 9214317560088,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/6_e7fc1b0f-fea4-479d-a388-981fef16f168.jpg?v=1777577580",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "id": 52815353020696,
+     "created_at": "2026-04-30T15:32:58-04:00",
+     "position": 7,
+     "updated_at": "2026-04-30T15:33:01-04:00",
+     "product_id": 9214317560088,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/7_515b3daa-4635-43b5-8843-7a543fe2f1a0.png?v=1777577581",
+     "width": 2560,
+     "height": 2560
+    },
+    {
+     "id": 52815353053464,
+     "created_at": "2026-04-30T15:32:58-04:00",
+     "position": 8,
+     "updated_at": "2026-04-30T15:33:00-04:00",
+     "product_id": 9214317560088,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/8_70a64de3-167d-4f8a-b1ab-bc612da454a5.jpg?v=1777577580",
+     "width": 1495,
+     "height": 1500
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "position": 1,
+     "values": [
+      "Default Title"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 9213020274968,
+   "title": "English & Spanish Flash Cards for Kids - Bilingual Flash Cards",
+   "handle": "english-spanish-flash-cards-for-kids",
+   "body_html": "<ul class=\"a-unordered-list a-vertical a-spacing-mini\">\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Enhance your child's preschool learning activities</strong> with our innovative electronic flashcard reader, a standout among kids and toddler learning toys. Featuring 300 bilingual English and Spanish kids and toddler flash cards and 600 audios, it's perfectly crafted to teach ABCs, numbers, colors, shapes, foods, clothes, animals, sight words, emotions, and more, supporting a comprehensive learning experience at home.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Discover the ultimate preschool toys: </strong>an electronic reader featuring alphabet flash cards for toddlers 1-3 and more advanced flash cards for kids ages 4-8. Designed with an On/Off button and adjustable volume to avoid unnecessary noise, it also includes a soothing white noise feature, perfect for naptime or a peaceful sleepytime, blocking out distractions and creating a tranquil environment.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Revolutionize learning</strong> with our ABC flash cards and toddler flash cards 1-2, the ultimate preschool learning toys. Offering a perfect alternative to screen time, these educational tools are meticulously designed to align with Common Core Standards (CCSS), ensuring your child gains foundational skills in a fun, interactive way that echoes the curriculum of most states.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Introduce an engaging </strong>way to learn with our sight word flash cards, designed for pre k learning activities and flash cards for toddlers 3-5 years. Effortlessly simple: slide the card into the reader, and it articulates words in both English &amp; Spanish. Upon insertion, the card reader activates, emitting the appropriate sound, making education both fun and accessible.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Descubre nuestros juguetes </strong>de niñas y niños, ideales juguetes para niños de 3 años y mayores. En Gufino, nos especializamos en juguetes para niñas y niños que fomentan el aprendizaje del inglés y español. Aquí, hablamos tu idioma y diseñamos juguetes educativos para que tus hijos crezcan con el privilegio de ser bilingües.</span></li>\n</ul>",
+   "published_at": "2024-05-09T10:21:19-04:00",
+   "created_at": "2024-05-08T15:37:23-04:00",
+   "updated_at": "2026-11-04T06:37:28-05:00",
+   "vendor": "Gufino",
+   "product_type": "Flash Cards",
+   "tags": [
+    "bilingual",
+    "MCF"
+   ],
+   "variants": [
+    {
+     "id": 48420139991320,
+     "title": "Default Title",
+     "option1": "Default Title",
+     "option2": null,
+     "option3": null,
+     "sku": "GF_FlashCards_01",
+     "requires_shipping": true,
+     "taxable": true,
+     "featured_image": null,
+     "available": true,
+     "price": "23.95",
+     "grams": 454,
+     "compare_at_price": "24.95",
+     "position": 2,
+     "product_id": 9213020274968,
+     "created_at": "2024-05-08T15:37:24-04:00",
+     "updated_at": "2026-11-04T06:37:28-05:00"
+    }
+   ],
+   "images": [
+    {
+     "id": 48714074390808,
+     "created_at": "2025-03-06T18:55:14-05:00",
+     "position": 1,
+     "updated_at": "2025-03-06T18:55:25-05:00",
+     "product_id": 9213020274968,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/06.jpg?v=1741305325",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "id": 48714074358040,
+     "created_at": "2025-03-06T18:55:14-05:00",
+     "position": 2,
+     "updated_at": "2025-03-06T18:55:25-05:00",
+     "product_id": 9213020274968,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/04learningtoys.jpg?v=1741305325",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "id": 48714074620184,
+     "created_at": "2025-03-06T18:55:14-05:00",
+     "position": 3,
+     "updated_at": "2025-03-06T18:55:25-05:00",
+     "product_id": 9213020274968,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/04_18b5eedb-c932-4c8b-b0a3-814230dd703a.jpg?v=1741305325",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "id": 48714074521880,
+     "created_at": "2025-03-06T18:55:14-05:00",
+     "position": 4,
+     "updated_at": "2025-03-06T18:55:25-05:00",
+     "product_id": 9213020274968,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/05b.jpg?v=1741305325",
+     "width": 2049,
+     "height": 2049
+    },
+    {
+     "id": 48714074325272,
+     "created_at": "2025-03-06T18:55:14-05:00",
+     "position": 5,
+     "updated_at": "2025-03-06T18:55:16-05:00",
+     "product_id": 9213020274968,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/07a.jpg?v=1741305316",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "id": 48714074685720,
+     "created_at": "2025-03-06T18:55:14-05:00",
+     "position": 6,
+     "updated_at": "2025-03-06T18:55:17-05:00",
+     "product_id": 9213020274968,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/01Green.jpg?v=1741305317",
+     "width": 2049,
+     "height": 2048
+    },
+    {
+     "id": 48714074423576,
+     "created_at": "2025-03-06T18:55:15-05:00",
+     "position": 7,
+     "updated_at": "2025-03-06T18:55:17-05:00",
+     "product_id": 9213020274968,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/02_68e0f74b-6424-433e-b164-26289e6ff859.jpg?v=1741305317",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "id": 48714074652952,
+     "created_at": "2025-03-06T18:55:15-05:00",
+     "position": 8,
+     "updated_at": "2025-03-06T18:55:17-05:00",
+     "product_id": 9213020274968,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/03_d5c2189f-3b92-4ae3-92e4-2245d1709856.jpg?v=1741305317",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "position": 1,
+     "values": [
+      "Default Title"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 9214304944408,
+   "title": "Bilingual Talking Flash Cards for Toddlers - Bilingual",
+   "handle": "bilingual-talking-flash-cards-for-toddlers",
+   "body_html": "<ul class=\"a-unordered-list a-vertical a-spacing-mini\">\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Boost early education with our learning toys for toddlers 2-4 years,</strong> including sight words flash cards kindergarten and alphabet learning toys, designed to enrich preschool activities. Designed with an On/Off button and adjustable volume to avoid unnecessary noise, it also includes a soothing white noise feature, perfect for naptime or a peaceful sleepytime, blocking out distractions and creating a tranquil environment.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Explore bilingual learning with our pocket speech for toddlers 1-3</strong>. It includes flashcards to learn Spanish and English. Featuring 300 bilingual English and Spanish kids and toddler flash card reader and 600 audios, it's perfectly crafted to teach ABCs, numbers, colors, shapes, foods, clothes, animals, sight words, emotions, and more, supporting a comprehensive learning experience at home.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Transform early learning with our talking flashcards for toddlers 1-3</strong>, ideal for speech therapy and great to learn Spanish for kids. These educational flashcards offer a screen-free learning experience, perfectly aligned with educational standards. Meticulously designed to align with Common Core Standards (CCSS), ensuring your child gains foundational skills in a fun, interactive way that echoes the curriculum of most states.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Enhance early education with our toddler talking flash cards</strong>, perfect for english and spanish learning. These learning cards for toddlers 1-3 are effortlessly simple: slide the card into the reader, and it articulates words in both English &amp; Spanish. Upon insertion, the card reader activates, emitting the appropriate sound, making education both fun and accessible.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Descubre nuestros juguetes de niñas y niños</strong>, ideales juguetes para niños de 3 años y mayores. En Gufino, nos especializamos en juguetes para niñas y niños que fomentan el aprendizaje del inglés y español. Aquí, hablamos tu idioma y diseñamos juguetes educativos para que tus hijos crezcan con el privilegio de ser bilingües.</span></li>\n</ul>",
+   "published_at": "2024-05-09T10:21:02-04:00",
+   "created_at": "2024-05-09T06:53:47-04:00",
+   "updated_at": "2026-11-04T06:37:28-05:00",
+   "vendor": "Gufino",
+   "product_type": "Flash Cards",
+   "tags": [
+    "bilingual",
+    "MCF"
+   ],
+   "variants": [
+    {
+     "id": 48424895873304,
+     "title": "Default Title",
+     "option1": "Default Title",
+     "option2": null,
+     "option3": null,
+     "sku": "GF_FlashCards_01_Pink",
+     "requires_shipping": true,
+     "taxable": true,
+     "featured_image": null,
+     "available": false,
+     "price": "23.95",
+     "grams": 454,
+     "compare_at_price": "24.95",
+     "position": 2,
+     "product_id": 9214304944408,
+     "created_at": "2024-05-09T06:53:48-04:00",
+     "updated_at": "2026-11-04T06:37:28-05:00"
+    }
+   ],
+   "images": [
+    {
+     "id": 48714063380760,
+     "created_at": "2025-03-06T18:54:07-05:00",
+     "position": 1,
+     "updated_at": "2025-03-06T18:54:12-05:00",
+     "product_id": 9214304944408,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/06Pink.jpg?v=1741305252",
+     "width": 2048,
+     "height": 2049
+    },
+    {
+     "id": 48714063347992,
+     "created_at": "2025-03-06T18:54:07-05:00",
+     "position": 2,
+     "updated_at": "2025-03-06T18:54:12-05:00",
+     "product_id": 9214304944408,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/03darkpink.jpg?v=1741305252",
+     "width": 2049,
+     "height": 2049
+    },
+    {
+     "id": 48714063413528,
+     "created_at": "2025-03-06T18:54:07-05:00",
+     "position": 3,
+     "updated_at": "2025-03-06T18:54:12-05:00",
+     "product_id": 9214304944408,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/04darkpink.jpg?v=1741305252",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "id": 48714063282456,
+     "created_at": "2025-03-06T18:54:07-05:00",
+     "position": 4,
+     "updated_at": "2025-03-06T18:54:12-05:00",
+     "product_id": 9214304944408,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/04Pink.jpg?v=1741305252",
+     "width": 2048,
+     "height": 2049
+    },
+    {
+     "id": 48714063511832,
+     "created_at": "2025-03-06T18:54:07-05:00",
+     "position": 5,
+     "updated_at": "2025-03-06T18:54:12-05:00",
+     "product_id": 9214304944408,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/05bpink.jpg?v=1741305252",
+     "width": 2048,
+     "height": 2049
+    },
+    {
+     "id": 48714063315224,
+     "created_at": "2025-03-06T18:54:07-05:00",
+     "position": 6,
+     "updated_at": "2025-03-06T18:54:12-05:00",
+     "product_id": 9214304944408,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/06darkpink.jpg?v=1741305252",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "id": 48714063544600,
+     "created_at": "2025-03-06T18:54:07-05:00",
+     "position": 7,
+     "updated_at": "2025-03-06T18:54:09-05:00",
+     "product_id": 9214304944408,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/07apink.jpg?v=1741305249",
+     "width": 2049,
+     "height": 2049
+    },
+    {
+     "id": 48714063610136,
+     "created_at": "2025-03-06T18:54:07-05:00",
+     "position": 8,
+     "updated_at": "2025-03-06T18:54:09-05:00",
+     "product_id": 9214304944408,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/01cpink.jpg?v=1741305249",
+     "width": 2048,
+     "height": 2049
+    },
+    {
+     "id": 48714063577368,
+     "created_at": "2025-03-06T18:54:07-05:00",
+     "position": 9,
+     "updated_at": "2025-03-06T18:54:09-05:00",
+     "product_id": 9214304944408,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/02pink.jpg?v=1741305249",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "position": 1,
+     "values": [
+      "Default Title"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 8878202290456,
+   "title": "Bilingual Story - Gufino Travels to Mexico - Spanish & English Bilingual Sound Book",
+   "handle": "copy-of-typical-english-nursery-rhymes-spanish-english-bilingual-sound-book",
+   "body_html": "<ul class=\"a-unordered-list a-vertical a-spacing-mini\" data-mce-fragment=\"1\">\n<li class=\"a-spacing-mini\">\n<div data-csa-c-id=\"mnjs08-iai2hj-w2mtvr-7ytpwd\" data-csa-c-is-in-initial-active-row=\"false\" data-csa-c-asin=\"B0CN1F9HDF\" data-csa-c-slot-id=\"featurebullets_feature_div\" data-csa-c-content-id=\"featurebullets\" data-csa-c-type=\"widget\" data-feature-name=\"featurebullets\" class=\"celwidget\" id=\"featurebullets_feature_div\">\n<div class=\"a-section a-spacing-medium a-spacing-top-small\" id=\"feature-bullets\">\n<ul class=\"a-unordered-list a-vertical a-spacing-mini\">\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>🌟 Gufino's Adventures</strong> - Gufino the owl travels around the world, visiting real landmarks, making local friends, learning the culture and language of each country. In this story, Gufino travels to Mexico's most emblematic landmarks including Tulum, Cenote Oxman and Chiapas Agua Azul, Palenque, Popocatepetl Volcano and the Butterfly Monarch Sanctuary.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>🔊 Gufino's Bilingual Adventure:</strong> A top pick among books with sounds for toddlers 1-3. This electronic baby story book delights with its read-aloud feature at every button press. Perfect for language development, it stands out as Spanish toys for toddlers 1-3, making storytime both interactive and educational.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\">🏆<strong> Premium Quality:</strong> A premium choice in sound books for babies, crafted with high-quality, durable materials. Perfectly suited as english and spanish for toddlers gifts for 1 year old and older, great bilingual books for toddlers 1-3, enriching their Spanish and English during toddlers learning journey. Includes safely secured batteries for long-lasting use.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\">🌎 <strong>Gufino's Mexican Quest: </strong>Excelling in toddler Spanish books, this story takes toddlers on a journey through Mexico's real landmarks. As one of the preferred toddler books in Spanish and English, it enriches young minds. Ideal as bilingual toys for toddlers 2-4 years, it's a unique choice among Enlighs and Spanish toddler books for cultural learning.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\">🦉 Este <strong>libro de cuentos infantiles en español e inglés</strong> lleva a los pequeños por un viaje a través de México, visitando lugares reales. En nuestra colección de libros para niños, Gufino aprende sobre la amistad, el compartir y el trabajo en equipo. También es un juguete educativo ideal, perfecto para el desarrollo infantil y como juguetes para niños en general, fomentando el aprendizaje y la diversión.</span></li>\n</ul>\n</div>\n</div>\n</li>\n</ul>",
+   "published_at": "2023-12-17T13:33:26-05:00",
+   "created_at": "2023-12-17T13:10:01-05:00",
+   "updated_at": "2026-11-04T06:37:28-05:00",
+   "vendor": "Gufino",
+   "product_type": "Sound Book",
+   "tags": [
+    "bilingual",
+    "MCF",
+    "sound-book"
+   ],
+   "variants": [
+    {
+     "id": 47381082145048,
+     "title": "Default Title",
+     "option1": "Default Title",
+     "option2": null,
+     "option3": null,
+     "sku": "GF_SoundBook_Story1_03R",
+     "requires_shipping": true,
+     "taxable": true,
+     "featured_image": null,
+     "available": true,
+     "price": "21.95",
+     "grams": 295,
+     "compare_at_price": "24.95",
+     "position": 1,
+     "product_id": 8878202290456,
+     "created_at": "2023-12-17T13:10:01-05:00",
+     "updated_at": "2026-11-04T06:37:28-05:00"
+    }
+   ],
+   "images": [
+    {
+     "id": 46224037347608,
+     "created_at": "2024-07-26T17:00:57-04:00",
+     "position": 1,
+     "updated_at": "2024-07-26T17:01:00-04:00",
+     "product_id": 8878202290456,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/B1-2--R1_f51a7eb6-4cd7-4d57-a278-d1b4f2d82f42.jpg?v=1722027660",
+     "width": 2560,
+     "height": 2560
+    },
+    {
+     "id": 43807067537688,
+     "created_at": "2023-12-17T13:13:53-05:00",
+     "position": 2,
+     "updated_at": "2024-07-26T17:01:23-04:00",
+     "product_id": 8878202290456,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/B1-3.jpg?v=1722027683",
+     "width": 2560,
+     "height": 2560
+    },
+    {
+     "id": 43807067701528,
+     "created_at": "2023-12-17T13:13:53-05:00",
+     "position": 3,
+     "updated_at": "2024-07-26T17:01:23-04:00",
+     "product_id": 8878202290456,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/B1-4.jpg?v=1722027683",
+     "width": 2560,
+     "height": 2560
+    },
+    {
+     "id": 43807067406616,
+     "created_at": "2023-12-17T13:13:53-05:00",
+     "position": 4,
+     "updated_at": "2024-07-26T17:01:23-04:00",
+     "product_id": 8878202290456,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/B1-5.jpg?v=1722027683",
+     "width": 2560,
+     "height": 2560
+    },
+    {
+     "id": 43807067341080,
+     "created_at": "2023-12-17T13:13:53-05:00",
+     "position": 5,
+     "updated_at": "2024-07-26T17:01:23-04:00",
+     "product_id": 8878202290456,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/B1-6.jpg?v=1722027683",
+     "width": 2560,
+     "height": 2560
+    },
+    {
+     "id": 43807067635992,
+     "created_at": "2023-12-17T13:13:53-05:00",
+     "position": 6,
+     "updated_at": "2024-07-26T17:01:23-04:00",
+     "product_id": 8878202290456,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/B1-7.jpg?v=1722027683",
+     "width": 2560,
+     "height": 2560
+    },
+    {
+     "id": 43807067373848,
+     "created_at": "2023-12-17T13:13:53-05:00",
+     "position": 7,
+     "updated_at": "2024-07-26T17:01:23-04:00",
+     "product_id": 8878202290456,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/B1-8.jpg?v=1722027683",
+     "width": 2560,
+     "height": 2560
+    },
+    {
+     "id": 43807064654104,
+     "created_at": "2023-12-17T13:13:33-05:00",
+     "position": 8,
+     "updated_at": "2024-07-26T17:01:23-04:00",
+     "product_id": 8878202290456,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/B1-1.jpg?v=1722027683",
+     "width": 2560,
+     "height": 2560
+    },
+    {
+     "id": 45700097278232,
+     "created_at": "2024-06-11T12:56:57-04:00",
+     "position": 9,
+     "updated_at": "2024-07-26T17:01:23-04:00",
+     "product_id": 8878202290456,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/Slide4.jpg?v=1722027683",
+     "width": 1344,
+     "height": 1344
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "position": 1,
+     "values": [
+      "Default Title"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 8878200652056,
+   "title": "Typical English Nursery Rhymes - Spanish & English Bilingual Sound Book",
+   "handle": "typical-english-nursery-rhymes-spanish-english-bilingual-sound-book",
+   "body_html": "<ul class=\"a-unordered-list a-vertical a-spacing-mini\" data-mce-fragment=\"1\">\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\">🎵 Delight in educational playtime with our baby musical toys, expertly crafted to aid learning Spanish for kids. Each toy combines interactive fun with melodic learning, making them the quintessential music toys for toddlers. Designed to enchant and educate, they're ideal for nurturing young minds towards bilingual fluency through captivating tunes and sounds.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\">📚 Foster your one-year-old's development with our enriching selection of English &amp; Spanish baby books. These one year old learning toys are designed to blend early literacy with fun, providing a bilingual foundation that benefits cognitive growth and language acquisition through interactive storytelling and play.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\">🎁 Ideal gifts for 1 year old baby girl or boy, our curated selection of baby Christmas toys blends festive cheer with educational value. These Spanish toys are crafted to inspire and delight, providing a bilingual play experience that supports early developmental milestones during the holiday season and beyond.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\">📖 Immerse your little one in the world of languages with our bilingual baby books Spanish English, featuring classic nursery rhyme books for babies. Each sound book is carefully designed to captivate young ears with melodious tunes in both languages, enriching their learning experience with baby books in Spanish.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\">🌎 Para nuestras familias hispanohablantes, ofrecemos una hermosa colección de libros en español para bebes y niños, diseñados para encender la imaginación y el amor por el aprendizaje desde una edad temprana. Nuestro equipo habla español y está aquí para apoyarles en cada paso del camino hacia la educación bilingüe de sus pequeños.</span></li>\n</ul>",
+   "published_at": "2023-12-17T13:33:26-05:00",
+   "created_at": "2023-12-17T13:07:48-05:00",
+   "updated_at": "2026-11-04T06:37:28-05:00",
+   "vendor": "Gufino",
+   "product_type": "Sound Book",
+   "tags": [
+    "bilingual",
+    "MCF",
+    "sound-book"
+   ],
+   "variants": [
+    {
+     "id": 47381079032088,
+     "title": "Default Title",
+     "option1": "Default Title",
+     "option2": null,
+     "option3": null,
+     "sku": "GF_SoundBook_SongsEng_02R",
+     "requires_shipping": true,
+     "taxable": true,
+     "featured_image": null,
+     "available": true,
+     "price": "21.95",
+     "grams": 295,
+     "compare_at_price": "24.95",
+     "position": 1,
+     "product_id": 8878200652056,
+     "created_at": "2023-12-17T13:07:48-05:00",
+     "updated_at": "2026-11-04T06:37:28-05:00"
+    }
+   ],
+   "images": [
+    {
+     "id": 43833841680664,
+     "created_at": "2023-12-20T07:21:21-05:00",
+     "position": 1,
+     "updated_at": "2023-12-20T07:21:24-05:00",
+     "product_id": 8878200652056,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/B3-2_2.jpg?v=1703074884",
+     "width": 2560,
+     "height": 2560
+    },
+    {
+     "id": 43807039455512,
+     "created_at": "2023-12-17T13:08:54-05:00",
+     "position": 2,
+     "updated_at": "2023-12-20T07:21:24-05:00",
+     "product_id": 8878200652056,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/B3-3.jpg?v=1703074884",
+     "width": 2560,
+     "height": 2560
+    },
+    {
+     "id": 43807039291672,
+     "created_at": "2023-12-17T13:08:54-05:00",
+     "position": 3,
+     "updated_at": "2023-12-20T07:21:24-05:00",
+     "product_id": 8878200652056,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/B3-4.jpg?v=1703074884",
+     "width": 2560,
+     "height": 2560
+    },
+    {
+     "id": 43807039422744,
+     "created_at": "2023-12-17T13:08:54-05:00",
+     "position": 4,
+     "updated_at": "2023-12-20T07:21:24-05:00",
+     "product_id": 8878200652056,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/B3-5.jpg?v=1703074884",
+     "width": 2560,
+     "height": 2560
+    },
+    {
+     "id": 43807039521048,
+     "created_at": "2023-12-17T13:08:54-05:00",
+     "position": 5,
+     "updated_at": "2023-12-20T07:21:24-05:00",
+     "product_id": 8878200652056,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/B3-6.jpg?v=1703074884",
+     "width": 2560,
+     "height": 2560
+    },
+    {
+     "id": 43807039553816,
+     "created_at": "2023-12-17T13:08:54-05:00",
+     "position": 6,
+     "updated_at": "2023-12-20T07:21:24-05:00",
+     "product_id": 8878200652056,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/B3-8.jpg?v=1703074884",
+     "width": 2560,
+     "height": 2560
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "position": 1,
+     "values": [
+      "Default Title"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 8878176207128,
+   "title": "Typical Spanish Nursery Rhymes - Bilingual English & Spanish Sound Book",
+   "handle": "english-spanish-nursery-rhymes-book-sound-book",
+   "body_html": "<ul data-mce-fragment=\"1\" class=\"a-unordered-list a-vertical a-spacing-mini\">\n<li data-mce-fragment=\"1\" class=\"a-spacing-mini\"><span data-mce-fragment=\"1\" class=\"a-list-item\">🎶 Explore our Spanish English baby books with beautiful nursery rhymes, an ideal choice among baby gifts 1 year old and toddlers up to 5 years of age! This sound book combines learning with fun, featuring popular Spanish songs perfect for musical toys for toddlers 1-3. It's designed to spark joy and curiosity in your little one, enhancing language skills and auditory development with every press of a button.</span></li>\n<li data-mce-fragment=\"1\" class=\"a-spacing-mini\"><span data-mce-fragment=\"1\" class=\"a-list-item\">📘 Dive into our 'Nursery Rhyme Books', perfect as 1 year old learning toys and older! These baby and toddler music toys are not just fun but educational, offering a world of rhythm and melody. Ideal for early development, our collection stands out among bilingual books for kids, fostering language skills in both English and Spanish. They make learning a joyful, musical adventure for your toddler. A must-have for nurturing bilingual brilliance</span></li>\n<li data-mce-fragment=\"1\" class=\"a-spacing-mini\"><span data-mce-fragment=\"1\" class=\"a-list-item\">🌟 Ideal Gift for 1 Year Old and older: Discover our enchanting range of Spanish books for babies and toddlers, merging joy and education. These bilingual baby books spanish and english are more than just songs; they are gateways to new languages and experiences. Carefully crafted to captivate young minds, making them perfect for nurturing bilingualism from an early age. They're not just gifts; they're investments in your child's linguistic and cognitive development.</span></li>\n<li data-mce-fragment=\"1\" class=\"a-spacing-mini\"><span data-mce-fragment=\"1\" class=\"a-list-item\">🎼 Our bilingual toys are an essential addition to your child's developmental journey. Our bilingual children's books combine education with entertainment, perfect for curious young minds. These musical books for toddlers are not just engaging but also instrumental in fostering language skills and auditory development. Designed to captivate, educate, and inspire, these bilingual spanish english children's books are perfect for creating a fun, interactive learning experience.</span></li>\n<li data-mce-fragment=\"1\" class=\"a-spacing-mini\"><span data-mce-fragment=\"1\" class=\"a-list-item\">🌎 ¡Estamos aquí para ayudarte! Nuestro equipo habla español y está listo para brindarte el mejor apoyo en tu búsqueda de libros en español para bebes y libros para niños en español. ¡Descubre nuestra selección de libros bilingües y musicales para enriquecer el aprendizaje de tus pequeños!</span></li>\n</ul>",
+   "published_at": "2023-12-17T12:52:04-05:00",
+   "created_at": "2023-12-17T12:05:16-05:00",
+   "updated_at": "2026-11-04T06:37:28-05:00",
+   "vendor": "Gufino",
+   "product_type": "Sound Book",
+   "tags": [
+    "bilingual",
+    "MCF",
+    "sound-book"
+   ],
+   "variants": [
+    {
+     "id": 47381014380824,
+     "title": "Default Title",
+     "option1": "Default Title",
+     "option2": null,
+     "option3": null,
+     "sku": "GF_SoundBook_SongsSpa_02R",
+     "requires_shipping": true,
+     "taxable": true,
+     "featured_image": null,
+     "available": true,
+     "price": "21.95",
+     "grams": 295,
+     "compare_at_price": "24.95",
+     "position": 1,
+     "product_id": 8878176207128,
+     "created_at": "2023-12-17T12:05:16-05:00",
+     "updated_at": "2026-11-04T06:37:28-05:00"
+    }
+   ],
+   "images": [
+    {
+     "id": 43833835127064,
+     "created_at": "2023-12-20T07:20:11-05:00",
+     "position": 1,
+     "updated_at": "2023-12-20T07:20:27-05:00",
+     "product_id": 8878176207128,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/B2-2_2.jpg?v=1703074827",
+     "width": 2560,
+     "height": 2560
+    },
+    {
+     "id": 43806936891672,
+     "created_at": "2023-12-17T12:51:17-05:00",
+     "position": 2,
+     "updated_at": "2023-12-20T07:20:27-05:00",
+     "product_id": 8878176207128,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/B2-3.jpg?v=1703074827",
+     "width": 2560,
+     "height": 2560
+    },
+    {
+     "id": 43806936727832,
+     "created_at": "2023-12-17T12:51:17-05:00",
+     "position": 3,
+     "updated_at": "2023-12-20T07:20:27-05:00",
+     "product_id": 8878176207128,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/B2-4.jpg?v=1703074827",
+     "width": 2560,
+     "height": 2560
+    },
+    {
+     "id": 43806936826136,
+     "created_at": "2023-12-17T12:51:17-05:00",
+     "position": 4,
+     "updated_at": "2023-12-20T07:20:27-05:00",
+     "product_id": 8878176207128,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/B2-5.jpg?v=1703074827",
+     "width": 2560,
+     "height": 2560
+    },
+    {
+     "id": 43806936793368,
+     "created_at": "2023-12-17T12:51:17-05:00",
+     "position": 5,
+     "updated_at": "2023-12-20T07:20:27-05:00",
+     "product_id": 8878176207128,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/B2-6.jpg?v=1703074827",
+     "width": 2560,
+     "height": 2560
+    },
+    {
+     "id": 43806936563992,
+     "created_at": "2023-12-17T12:51:17-05:00",
+     "position": 6,
+     "updated_at": "2023-12-20T07:20:27-05:00",
+     "product_id": 8878176207128,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/B2-7.jpg?v=1703074827",
+     "width": 2560,
+     "height": 2560
+    },
+    {
+     "id": 43806936662296,
+     "created_at": "2023-12-17T12:51:17-05:00",
+     "position": 7,
+     "updated_at": "2023-12-20T07:20:27-05:00",
+     "product_id": 8878176207128,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/B2-8.jpg?v=1703074827",
+     "width": 2560,
+     "height": 2560
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "position": 1,
+     "values": [
+      "Default Title"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 8662998974744,
+   "title": "First 100 Bilingual Words in English & Spanish",
+   "handle": "bilingual-first-100-words-learning-toy",
+   "body_html": "<p> </p>\n<ul>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>INTERACTIVE PLAYROOM LEARNING - </strong>Dive into the first 100 words with our press-and-play design. Every real image, ideal as playroom wall decor, voices the word in both English and Spanish, fostering effortless language acquisition for kids.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>ENGAGING HOMESCHOOL SUPPLIES - </strong> More than just vocabulary! Explore catchy songs, lively games, and quizzes. This classroom poster ensures that learning Spanish for kids becomes a delightful, memorable experience, making it a staple in preschool homeschool supplies.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>MONTESSORI MEETS SPANISH -</strong>  With real images for every word and categorization into 11 intuitive groups, this is the ultimate Spanish poster for classroom setup. It seamlessly blends Montessori principles with the vibrancy of Spanish classroom must-haves.</span></li>\n<li class=\"a-spacing-mini\">\n<strong>MY FIRST 100 BILINGUAL WORDS -</strong> M<span data-mce-fragment=\"1\">aking it a favorite among 1st grade classroom must-haves and essential homeschooling supplies. Embedded in Montessori principles, our bilingual educational poster unveils the 100 first words in both English and Spanish, a perfect addition to your homeschool poster collection.</span>\n</li>\n</ul>\n<p data-mce-fragment=\"1\">Join the Gufino lineage and introduce your child to a world where fun meets Spanish teaching supplies. Endorsed by educators and parents who vouch for the wonders of bilingualism, this poster isn't just a learning tool; it's the beacon to a vibrant bilingual horizon.</p>",
+   "published_at": "2023-09-20T21:24:47-04:00",
+   "created_at": "2023-09-20T21:24:47-04:00",
+   "updated_at": "2026-11-04T06:37:28-05:00",
+   "vendor": "Gufino",
+   "product_type": "Sound Book",
+   "tags": [
+    "bilingual",
+    "MCF",
+    "sound-book"
+   ],
+   "variants": [
+    {
+     "id": 46787052831000,
+     "title": "Default Title",
+     "option1": "Default Title",
+     "option2": null,
+     "option3": null,
+     "sku": "GF_100_BilingualWords_02R",
+     "requires_shipping": true,
+     "taxable": true,
+     "featured_image": null,
+     "available": true,
+     "price": "29.99",
+     "grams": 408,
+     "compare_at_price": null,
+     "position": 1,
+     "product_id": 8662998974744,
+     "created_at": "2023-09-20T21:24:48-04:00",
+     "updated_at": "2026-11-04T06:37:28-05:00"
+    }
+   ],
+   "images": [
+    {
+     "id": 52815160639768,
+     "created_at": "2026-04-30T15:05:44-04:00",
+     "position": 1,
+     "updated_at": "2026-04-30T15:05:46-04:00",
+     "product_id": 8662998974744,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/1_686b1375-891b-4b29-99ba-e88c05956f75.jpg?v=1777575946",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "id": 52815160672536,
+     "created_at": "2026-04-30T15:05:44-04:00",
+     "position": 2,
+     "updated_at": "2026-04-30T15:05:47-04:00",
+     "product_id": 8662998974744,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/2_9c31ee8b-91cd-4076-adc8-9e28e4d0d98a.jpg?v=1777575947",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "id": 52815160705304,
+     "created_at": "2026-04-30T15:05:44-04:00",
+     "position": 3,
+     "updated_at": "2026-04-30T15:05:46-04:00",
+     "product_id": 8662998974744,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/3_c0440a19-6faa-466d-ac19-bd19481b6dda.jpg?v=1777575946",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "id": 52815160738072,
+     "created_at": "2026-04-30T15:05:44-04:00",
+     "position": 4,
+     "updated_at": "2026-04-30T15:05:46-04:00",
+     "product_id": 8662998974744,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/4_1d3de735-069d-4e20-896b-93be25abe540.jpg?v=1777575946",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "id": 52815160770840,
+     "created_at": "2026-04-30T15:05:44-04:00",
+     "position": 5,
+     "updated_at": "2026-04-30T15:05:46-04:00",
+     "product_id": 8662998974744,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/5_bc324517-4970-4a6e-8f2a-e307fb5f5311.jpg?v=1777575946",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "id": 52815160803608,
+     "created_at": "2026-04-30T15:05:44-04:00",
+     "position": 6,
+     "updated_at": "2026-04-30T15:05:46-04:00",
+     "product_id": 8662998974744,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/6_1abaf3b2-b244-41ff-8065-36e0f3e15f53.jpg?v=1777575946",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "id": 52815160836376,
+     "created_at": "2026-04-30T15:05:44-04:00",
+     "position": 7,
+     "updated_at": "2026-04-30T15:05:46-04:00",
+     "product_id": 8662998974744,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/7_e79d4fb0-71f6-4456-93fa-73755f2aa945.jpg?v=1777575946",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "position": 1,
+     "values": [
+      "Default Title"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 8662987145496,
+   "title": "Bilingual Electronic Poster - Numbers & Shapes",
+   "handle": "bilingual-talking-numbers",
+   "body_html": "<ul class=\"a-unordered-list a-vertical a-spacing-mini\">\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Engaging Toddler Toys –</strong> This interactive number chart teaches numbers, colors &amp; shapes in English &amp; Spanish. A fun way to develop early skills through songs &amp; quizzes, making it a top choice in learning toys for toddlers 1-3.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Bilingual Learning Resources –</strong> Designed for immersive learning, this interactive poster enhances preschool learning activities with touch-based games, fostering cognitive growth while keeping little ones engaged.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Fun Toddler Activities –</strong> Keep kids entertained while they learn! This talking wall chart turns education into play, reinforcing early skills through engaging toddler activities that encourage independent discovery.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Number Puzzles for Toddlers 1-3</strong> – Teach number recognition with interactive challenges. The poster includes playful number quiz games, helping develop problem-solving &amp; memory skills.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Versatile &amp; Easy to Use –</strong> This number chart mounts on walls or lays flat for floor play. Durable &amp; frustration-free buttons make it ideal for interactive learning resources, promoting hands-on learning.</span></li>\n</ul>",
+   "published_at": "2023-09-20T21:12:25-04:00",
+   "created_at": "2023-09-20T21:12:26-04:00",
+   "updated_at": "2026-11-04T06:37:28-05:00",
+   "vendor": "Gufino",
+   "product_type": "Talking Poster",
+   "tags": [
+    "bilingual",
+    "MCF",
+    "poster"
+   ],
+   "variants": [
+    {
+     "id": 46786996437272,
+     "title": "Default Title",
+     "option1": "Default Title",
+     "option2": null,
+     "option3": null,
+     "sku": "Gufino_SK_Numbers01",
+     "requires_shipping": true,
+     "taxable": true,
+     "featured_image": null,
+     "available": true,
+     "price": "25.95",
+     "grams": 349,
+     "compare_at_price": null,
+     "position": 1,
+     "product_id": 8662987145496,
+     "created_at": "2023-09-20T21:12:26-04:00",
+     "updated_at": "2026-11-04T06:37:28-05:00"
+    }
+   ],
+   "images": [
+    {
+     "id": 52808637120792,
+     "created_at": "2026-04-29T17:29:04-04:00",
+     "position": 1,
+     "updated_at": "2026-04-29T17:29:06-04:00",
+     "product_id": 8662987145496,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/01main.jpg?v=1777498146",
+     "width": 2560,
+     "height": 2560
+    },
+    {
+     "id": 52808637153560,
+     "created_at": "2026-04-29T17:29:04-04:00",
+     "position": 2,
+     "updated_at": "2026-04-29T17:29:06-04:00",
+     "product_id": 8662987145496,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/01-1.jpg?v=1777498146",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "id": 52808637186328,
+     "created_at": "2026-04-29T17:29:04-04:00",
+     "position": 3,
+     "updated_at": "2026-04-29T17:29:06-04:00",
+     "product_id": 8662987145496,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/02_2808ff83-490e-4f3a-9e70-46c27d7af044.jpg?v=1777498146",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "id": 52808637219096,
+     "created_at": "2026-04-29T17:29:04-04:00",
+     "position": 4,
+     "updated_at": "2026-04-29T17:29:06-04:00",
+     "product_id": 8662987145496,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/03_79608699-a8a8-4a14-a0af-6d011181af1d.jpg?v=1777498146",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "id": 52808637251864,
+     "created_at": "2026-04-29T17:29:04-04:00",
+     "position": 5,
+     "updated_at": "2026-04-29T17:29:06-04:00",
+     "product_id": 8662987145496,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/04_130d205a-244b-44e0-8292-a456d7d1d7a1.jpg?v=1777498146",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "id": 52808637284632,
+     "created_at": "2026-04-29T17:29:04-04:00",
+     "position": 6,
+     "updated_at": "2026-04-29T17:29:06-04:00",
+     "product_id": 8662987145496,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/05.jpg?v=1777498146",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "id": 52808637317400,
+     "created_at": "2026-04-29T17:29:04-04:00",
+     "position": 7,
+     "updated_at": "2026-04-29T17:29:06-04:00",
+     "product_id": 8662987145496,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/06_bdb60f03-7590-4029-941a-bfa9512c4db9.jpg?v=1777498146",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "id": 52808637350168,
+     "created_at": "2026-04-29T17:29:04-04:00",
+     "position": 8,
+     "updated_at": "2026-04-29T17:29:06-04:00",
+     "product_id": 8662987145496,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/08.jpg?v=1777498146",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "position": 1,
+     "values": [
+      "Default Title"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 8662976790808,
+   "title": "Bilingual Electronic Poster - Alphabet & Songs",
+   "handle": "bilingual-alphabet-poster-interactive",
+   "body_html": "<p> </p>\n<h3 class=\"_2qrJF\" data-hook=\"product-title\">Gufino Bilingual Interactive Poster</h3>\n<p dir=\"ltr\" role=\"presentation\"><strong>BILINGUAL ALPHABET LEARNING TOY FOR EARLY TODDLER DEVELOPMENT:</strong><span> Our Gufino Bilingual Talking Poster, a top-notch alphabet learning toy, integrates essential English &amp; Spanish vocabulary, covering letters and numbers in both languages. It's an outstanding choice among alphabet-learning toys for 2 to 3-year-olds, making it a must-have for parents seeking the best educational toys for their toddlers. </span><span>Especially wonderful for kids between 1 and 3 years old who are learning to talk.</span><span><br></span></p>\n<ul>\n<li class=\"a-spacing-mini\">\n<span class=\"a-list-item\"><strong>Inspire your child's love for learning with our ABC wall chart! </strong>Our interactive ABC alphabet poster chart features touch buttons that promote independent exploration and learning in a captivating way.</span><span class=\"a-list-item\"></span>\n</li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Boost bilingual brain development with this alphabet chart! </strong>Ideal for homeschool activities, Spanish classroom supplies, or preschool learning. This alphabet poster makes learning fun, fostering cognitive flexibility and memory retention.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Fear touch sensitivity issues with alphabet learning toys? </strong>Our alphabet poster for toddlers is crafted for smooth, responsive interaction. This ensures an engaging and educational learning journey for your child—no frustrations, just fun and fruitful learning!</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>Adjustable Volume: Designed with a kid-friendly interface, these Spanish toys for toddlers 1-3 offer an adjustable sound feature.</strong> It makes these English and Spanish learning toys adaptable to various environments. Plus, it promotes bilingual early literacy through interactive alphabet and number activities.</span></li>\n<li class=\"a-spacing-mini\">\n<span class=\"a-list-item\"><strong>Master the Spanish alphabet while playing! </strong>Our learning toys for 2 year olds and older are designed by bilingual educators, adhering to Common Core State Standards for optimum learning. Enjoy clear pronunciations from native speakers for precise language teaching.</span><strong></strong>\n</li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><meta charset=\"utf-8\">\n<b id=\"docs-internal-guid-bee9e8ba-7fff-f765-31b5-85294c1229bc\"><span>Easy to use &amp; batteries included:</span></b> Improved and bigger buttons that are easier to use. Just open it, hang it on the wall, or place it on top of a table. Perfect for preschool learning.</span></li>\n</ul>",
+   "published_at": "2023-09-20T20:58:42-04:00",
+   "created_at": "2023-09-20T20:58:42-04:00",
+   "updated_at": "2026-11-04T06:37:28-05:00",
+   "vendor": "Gufino",
+   "product_type": "Talking Poster",
+   "tags": [
+    "bilingual",
+    "MCF",
+    "poster"
+   ],
+   "variants": [
+    {
+     "id": 46786960163096,
+     "title": "Default Title",
+     "option1": "Default Title",
+     "option2": null,
+     "option3": null,
+     "sku": "GF_SK_Alphabet01",
+     "requires_shipping": true,
+     "taxable": true,
+     "featured_image": null,
+     "available": true,
+     "price": "25.95",
+     "grams": 349,
+     "compare_at_price": "24.95",
+     "position": 1,
+     "product_id": 8662976790808,
+     "created_at": "2023-09-20T20:58:42-04:00",
+     "updated_at": "2026-11-04T06:37:28-05:00"
+    }
+   ],
+   "images": [
+    {
+     "id": 52800505741592,
+     "created_at": "2026-04-28T15:16:00-04:00",
+     "position": 1,
+     "updated_at": "2026-04-28T15:16:02-04:00",
+     "product_id": 8662976790808,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/1_1725ac3e-d59f-4898-872e-3caf052082b9.jpg?v=1777403762",
+     "width": 1481,
+     "height": 1467
+    },
+    {
+     "id": 52800505774360,
+     "created_at": "2026-04-28T15:16:00-04:00",
+     "position": 2,
+     "updated_at": "2026-04-28T15:16:02-04:00",
+     "product_id": 8662976790808,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/2.jpg?v=1777403762",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "id": 52800505807128,
+     "created_at": "2026-04-28T15:16:00-04:00",
+     "position": 3,
+     "updated_at": "2026-04-28T15:16:02-04:00",
+     "product_id": 8662976790808,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/3.jpg?v=1777403762",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "id": 52800505839896,
+     "created_at": "2026-04-28T15:16:00-04:00",
+     "position": 4,
+     "updated_at": "2026-04-28T15:16:02-04:00",
+     "product_id": 8662976790808,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/4.jpg?v=1777403762",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "id": 52800505872664,
+     "created_at": "2026-04-28T15:16:00-04:00",
+     "position": 5,
+     "updated_at": "2026-04-28T15:16:02-04:00",
+     "product_id": 8662976790808,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/5.jpg?v=1777403762",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "id": 52800505905432,
+     "created_at": "2026-04-28T15:16:00-04:00",
+     "position": 6,
+     "updated_at": "2026-04-28T15:16:02-04:00",
+     "product_id": 8662976790808,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/6_7f927c84-756e-4842-83b6-e24ac5a1e0dd.jpg?v=1777403762",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "id": 52800505938200,
+     "created_at": "2026-04-28T15:16:00-04:00",
+     "position": 7,
+     "updated_at": "2026-04-28T15:16:02-04:00",
+     "product_id": 8662976790808,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/7educationaltoystoddlerautismspeechtherapy.jpg?v=1777403762",
+     "width": 3300,
+     "height": 3300
+    },
+    {
+     "id": 52800517472536,
+     "created_at": "2026-04-28T15:20:17-04:00",
+     "position": 8,
+     "updated_at": "2026-04-28T15:20:19-04:00",
+     "product_id": 8662976790808,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/Main_Image_V1_1.png?v=1777404019",
+     "width": 2560,
+     "height": 2560
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "position": 1,
+     "values": [
+      "Default Title"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 8662966960408,
+   "title": "Learning Electronic WorkBook - Spanish & English for Children and Perfect for PreSchool",
+   "handle": "bilingual-learning-word-e-book",
+   "body_html": "<h3 data-mce-fragment=\"1\" class=\"_2qrJF\" data-hook=\"product-title\">Gufino ABC SoundBook for Children. 3 year old Girls &amp; Boys, Fun Educational Toy</h3>\n<ul>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>INTERACTIVE ELECTRONIC LEARNING BOOK: </strong>Learn by hearing how to identify &amp; pronounce the letters/numbers/words with clear American pronunciation. Handwriting practice, tracing book with Dry Erase Marker. Our learning &amp; education toys will enhance kids learning activity in a fun interactive way</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>SPANISH &amp; ENGLISH LANGUAGE: </strong>Speak and spell in both languages. Spanish learning for kids never been easier. With our toddler e-learning book, kids can learn most common greeting phrases, letters, numbers, planets, foods and much more, also in Spanish language. (Juguetes Educativos para Niños, Niñas - Pronunciación perfecta)</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>EDUCATIONAL TOYS FOR 3+ YEAR OLD: </strong>Fun way to learn spanish for kids. Learning Words, ABC, Counting, Colors, Shapes, Fruits, Vegetables &amp; More. Critical thinking, Writing &amp; Memory in an interesting way that will motivate to learn at an early age.</span></li>\n<li class=\"a-spacing-mini\"><span class=\"a-list-item\"><strong>PRESCHOOL WORKBOOK &amp; KINDERGARTEN TOYS: </strong>for your Kids that encourage independent learning games with our colorful, electronic ABC sound book. Best for busy moms, toddler learning activities and a great speech therapy toys addition.</span></li>\n<li class=\"a-spacing-mini\">\n<span class=\"a-list-item\"><strong>GIFT PACKAGING AND TRAVEL READY: </strong>Great for car rides, airplane travel, long trips 3AA Battery included! no Wifi required. Automatically shuts off to preserve battery life, when not in use. Includes 10 songs in Spanish and English.</span><strong></strong>\n</li>\n</ul>",
+   "published_at": "2023-09-20T20:48:45-04:00",
+   "created_at": "2023-09-20T20:48:45-04:00",
+   "updated_at": "2026-11-04T06:37:28-05:00",
+   "vendor": "Gufino",
+   "product_type": "Learning Ebook",
+   "tags": [
+    "MCF"
+   ],
+   "variants": [
+    {
+     "id": 46786935030040,
+     "title": "Default Title",
+     "option1": "Default Title",
+     "option2": null,
+     "option3": null,
+     "sku": "Gufino_ABC_Ebook01",
+     "requires_shipping": true,
+     "taxable": true,
+     "featured_image": null,
+     "available": true,
+     "price": "25.95",
+     "grams": 590,
+     "compare_at_price": "29.95",
+     "position": 1,
+     "product_id": 8662966960408,
+     "created_at": "2023-09-20T20:48:45-04:00",
+     "updated_at": "2026-11-04T06:37:28-05:00"
+    }
+   ],
+   "images": [
+    {
+     "id": 52814538703128,
+     "created_at": "2026-04-30T13:30:49-04:00",
+     "position": 1,
+     "updated_at": "2026-04-30T13:30:51-04:00",
+     "product_id": 8662966960408,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/1_878053b0-d608-41f8-a640-51a80b71a44f.jpg?v=1777570251",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "id": 52814538735896,
+     "created_at": "2026-04-30T13:30:49-04:00",
+     "position": 2,
+     "updated_at": "2026-04-30T13:30:51-04:00",
+     "product_id": 8662966960408,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/2_ac46fe92-a4b7-4123-9deb-75e624abd06f.jpg?v=1777570251",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "id": 52814538768664,
+     "created_at": "2026-04-30T13:30:49-04:00",
+     "position": 3,
+     "updated_at": "2026-04-30T13:30:50-04:00",
+     "product_id": 8662966960408,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/3_40032680-e451-499c-8d3f-5c6feef7bad7.jpg?v=1777570250",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "id": 52814538801432,
+     "created_at": "2026-04-30T13:30:49-04:00",
+     "position": 4,
+     "updated_at": "2026-04-30T13:30:50-04:00",
+     "product_id": 8662966960408,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/4_8408c047-fa9a-402f-8781-6bfa7ea09ecd.jpg?v=1777570250",
+     "width": 1500,
+     "height": 1444
+    },
+    {
+     "id": 52814538834200,
+     "created_at": "2026-04-30T13:30:49-04:00",
+     "position": 5,
+     "updated_at": "2026-04-30T13:30:50-04:00",
+     "product_id": 8662966960408,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/5_2492151e-8770-487a-8250-0a4fbdd10357.jpg?v=1777570250",
+     "width": 1499,
+     "height": 1500
+    },
+    {
+     "id": 52814538866968,
+     "created_at": "2026-04-30T13:30:49-04:00",
+     "position": 6,
+     "updated_at": "2026-04-30T13:30:50-04:00",
+     "product_id": 8662966960408,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/6_af4af71a-88a7-4024-bfcb-b2217cfd21fd.jpg?v=1777570250",
+     "width": 1499,
+     "height": 1500
+    },
+    {
+     "id": 52814538899736,
+     "created_at": "2026-04-30T13:30:49-04:00",
+     "position": 7,
+     "updated_at": "2026-04-30T13:30:50-04:00",
+     "product_id": 8662966960408,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/7.jpg?v=1777570250",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "id": 52814538932504,
+     "created_at": "2026-04-30T13:30:49-04:00",
+     "position": 8,
+     "updated_at": "2026-04-30T13:30:50-04:00",
+     "product_id": 8662966960408,
+     "variant_ids": [],
+     "src": "https://cdn.shopify.com/s/files/1/0818/0347/7272/files/8.jpg?v=1777570250",
+     "width": 1500,
+     "height": 1492
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "position": 1,
+     "values": [
+      "Default Title"
+     ]
+    }
+   ]
+  }
+ ]
+}
